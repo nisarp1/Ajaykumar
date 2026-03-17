@@ -197,7 +197,7 @@ include 'parts/header.php';
             <div class="col-xl-7 col-lg-8 position-relative z-index-1" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="d-inline-block text-white fw-700 text-uppercase ls-2px fs-15 border-bottom-tricolor pb-5px mb-25px">The Democratic Odyssey</span>
                 <h1 class="text-white alt-font fw-700 ls-minus-2px mb-25px" style="font-size: 4rem; line-height: 4.2rem;">A Journey of Grit & Governance</h1>
-                <p class="fs-20 text-white opacity-8 mb-0 w-80 lg-w-100 fw-300">Decades of committed service, empowering the grassroot movements of Bagalkot.</p>
+                <p class="fs-20 text-white opacity-8 mb-0 w-80 lg-w-100 fw-300">A legacy of service spanning over four decades, from grassroots agricultural leadership to state governance and national representation.</p>
             </div>
         </div>
     </div>
@@ -241,7 +241,7 @@ include 'parts/header.php';
                     <span class="legacy-title-gradient">Rooted in Strategy,</span><br>Driven by Empathy.
                 </h2>
                 <p class="fs-19 lh-34 text-dark-gray opacity-8 mb-40px fw-300">
-                    Sarnaik's political journey isn't just a record of elections—it's a case study in <strong class="text-royal-blue">Cooperative Governance</strong>. By applying institutional discipline to public service, he has redefined how progress reaches the village level.
+                    Shri Sarnaik’s political journey reflects steady evolution—from leading the APMC Bagalkot as a champion for farmers' rights to serving as the <strong class="text-royal-blue">Minister of Youth Services and Sports</strong>. His leadership has been characterized by irrigation justice and rural resilience.
                 </p>
                 <div class="row g-4 mb-10px">
                     <div class="col-sm-6">
@@ -271,7 +271,7 @@ include 'parts/header.php';
                     <div class="position-relative z-index-1">
                         <i class="bi bi-quote text-royal-blue fs-60 mb-20px d-block opacity-4"></i>
                         <h3 class="alt-font font-italic fw-500 text-royal-blue mb-40px" style="line-height: 1.4;">
-                            "Politics is not a destination; it is a mechanism to <span class="bg-gradient-royal-blue-transparent px-1">scale the impact</span> we've already created at the grassroots."
+                            "Development must not be selective. It must reach the last household in the last village."
                         </h3>
                         <div class="d-flex align-items-center">
                             <div class="w-10px h-10px rounded-circle bg-muted-saffron me-3"></div>
@@ -317,37 +317,37 @@ include 'parts/header.php';
                     <!-- Item 1 -->
                     <div class="col mb-40px lg-mb-0 text-center text-lg-start" data-anime='{ "translateY" : [30, 0], "opacity" : [0,1], "duration" : 600, "delay" : 0, "easing" : "easeOutQuad" }'>
                         <div class="d-flex flex-column align-items-center align-items-lg-start">
-                            <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">1998</span>
+                            <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">1989</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
-                            <h6 class="fw-700 text-royal-blue mb-10px">The Parliamentary Debut</h6>
-                            <p class="fs-15 opacity-7">Elected to the 12th Lok Sabha from Bagalkot. Advocated for handloom industry and established Bagalkot's voice.</p>
+                            <h6 class="fw-700 text-royal-blue mb-10px">Legislative Impact</h6>
+                            <p class="fs-15 opacity-7">Elected as MLA from Bagalkot. Focused on large-scale infrastructure and regional development over two terms.</p>
                         </div>
                     </div>
                     <!-- Item 2 -->
                     <div class="col mb-40px lg-mb-0 text-center text-lg-start" data-anime='{ "translateY" : [30, 0], "opacity" : [0,1], "duration" : 600, "delay" : 200, "easing" : "easeOutQuad" }'>
                         <div class="d-flex flex-column align-items-center align-items-lg-start">
-                            <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">2004</span>
+                            <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">1998</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
-                            <h6 class="fw-700 text-royal-blue mb-10px">Ministerial Leadership</h6>
-                            <p class="fs-15 opacity-7">Served as Minister for Youth & Sports, Govt of Karnataka. Pioneered radical sports-for-all policies.</p>
+                            <h6 class="fw-700 text-royal-blue mb-10px">National Representation</h6>
+                            <p class="fs-15 opacity-7">Member of Parliament, 12th Lok Sabha. Represented India at the United Nations, bringing rural perspectives to global diplomacy.</p>
                         </div>
                     </div>
                     <!-- Item 3 -->
                     <div class="col mb-40px lg-mb-0 text-center text-lg-start" data-anime='{ "translateY" : [30, 0], "opacity" : [0,1], "duration" : 600, "delay" : 400, "easing" : "easeOutQuad" }'>
                         <div class="d-flex flex-column align-items-center align-items-lg-start">
-                            <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">2013</span>
+                            <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">2012</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
-                            <h6 class="fw-700 text-royal-blue mb-10px">The Banking Revolution</h6>
-                            <p class="fs-15 opacity-7">President of Bagalkot DCC Bank. Transformed it into a profit-making entity supporting thousands of farmers.</p>
+                            <h6 class="fw-700 text-royal-blue mb-10px">Cooperative Revolution</h6>
+                            <p class="fs-15 opacity-7">Taking helm as President of BDCC Bank. Revolutionized rural credit, ensuring farmers have access to fair loans.</p>
                         </div>
                     </div>
                     <!-- Item 4 -->
                     <div class="col text-center text-lg-start" data-anime='{ "translateY" : [30, 0], "opacity" : [0,1], "duration" : 600, "delay" : 600, "easing" : "easeOutQuad" }'>
                         <div class="d-flex flex-column align-items-center align-items-lg-start">
-                            <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">2024+</span>
+                            <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">Present</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
-                            <h6 class="fw-700 text-royal-blue mb-10px">Vision 2030</h6>
-                            <p class="fs-15 opacity-7">Leading the wave in Bagalkot, focusing on digital connectivity and modernizing agricultural infrastructure.</p>
+                            <h6 class="fw-700 text-royal-blue mb-10px">State Leadership</h6>
+                            <p class="fs-15 opacity-7">Currently serving as Vice President of KPCC, helping shape the party's vision and strategy for Karnataka.</p>
                         </div>
                     </div>
                 </div>
@@ -369,26 +369,23 @@ include 'parts/header.php';
             data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "staggervalue": 200, "easing": "easeOutQuad" }'>
             <div class="col">
                 <div class="glass-card p-5 h-100 border-top border-4 border-color-royal-blue">
-                    <i class="bi bi-gear-wide-connected text-royal-blue fs-45 mb-25px d-block"></i>
-                    <h5 class="fw-800 text-dark-gray mb-15px">Handloom Research</h5>
-                    <p class="fs-16 opacity-7">Proposed the National Handloom Research Institute to be set up in
-                        Bagalkot, aiming to modernize traditional weaving techniques.</p>
+                    <i class="bi bi-award text-royal-blue fs-45 mb-25px d-block"></i>
+                    <h5 class="fw-800 text-dark-gray mb-15px">Best Horticulturist</h5>
+                    <p class="fs-16 opacity-7">Honored by the Government of Karnataka in 1995 for innovative contributions and leadership in the field of agriculture.</p>
                 </div>
             </div>
             <div class="col">
                 <div class="glass-card p-5 h-100 border-top border-4 border-color-muted-saffron">
-                    <i class="bi bi-truck text-muted-saffron fs-45 mb-25px d-block"></i>
-                    <h5 class="fw-800 text-dark-gray mb-15px">Rural Connectivity</h5>
-                    <p class="fs-16 opacity-7">Sanctioned major all-weather road projects connecting remote tribal
-                        hamlets to the main highway grid during his MP tenure.</p>
+                    <i class="bi bi-star-fill text-muted-saffron fs-45 mb-25px d-block"></i>
+                    <h5 class="fw-800 text-dark-gray mb-15px">Excellence in Governance</h5>
+                    <p class="fs-16 opacity-7">Under his leadership as MLA, the Bagalkot Taluka Panchayat was recognized as the "Best Taluka Panchayat" in the state.</p>
                 </div>
             </div>
             <div class="col">
                 <div class="glass-card p-5 h-100 border-top border-4 border-color-emerald-green">
-                    <i class="bi bi-people-fill text-emerald-green fs-45 mb-25px d-block"></i>
-                    <h5 class="fw-800 text-dark-gray mb-15px">Youth Empowerment</h5>
-                    <p class="fs-16 opacity-7">Allocated record funds for the training of state-level athletes, many
-                        of whom went on to represent the country at international levels.</p>
+                    <i class="bi bi-stadium-vessel text-emerald-green fs-45 mb-25px d-block"></i>
+                    <h5 class="fw-800 text-dark-gray mb-15px">Sports Architecture</h5>
+                    <p class="fs-16 opacity-7">Transformed the state's sporting landscape by organizing the National Games and building international-standard stadium infrastructure.</p>
                 </div>
             </div>
         </div>

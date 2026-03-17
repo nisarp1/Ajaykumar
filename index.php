@@ -14,14 +14,14 @@ include 'parts/html-header.php'; ?>
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="image-caption hero-caption position-relative left-0 bottom-0 pointer-events-all">
-                                A Record of Transparent Leadership and Public Accountability
+                                A Legacy of Service and Grassroots Progress for North Karnataka
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- mobile caption -->
                 <div class="image-caption hero-caption bottom-40px d-lg-none">
-                    A Record of Transparent Leadership and Public Accountability
+                    A Legacy of Service and Grassroots Progress for North Karnataka
                 </div>
             </div>
 
@@ -42,14 +42,13 @@ include 'parts/html-header.php'; ?>
                     <div class="col-12">
                         <h1 class="alt-font text-royal-blue fw-700 ls-minus-2px mb-25px"
                             style="font-size: 4rem; line-height: 4.2rem;">
-                            A Legacy of Governance.<br>A Vision for Bagalkot.
+                            A Legacy of Service.<br>A Vision for Bagalkot.
                         </h1>
                     </div>
 
                     <div class="col-md-10">
                         <p class="fs-20 lh-34 text-dark-gray opacity-8 mb-35px fw-300">
-                            Former Minister of Youth & Sports | President, Bagalkot DCC Bank | Former Member of
-                            Parliament (12th Lok Sabha).
+                            Distinguished Leader | Minister of Youth Services & Sports (Former) | Member of Parliament (12th Lok Sabha) | President, BDCC Bank.
                         </p>
                     </div>
 
@@ -95,9 +94,7 @@ include 'parts/html-header.php'; ?>
                 </h2>
                 <div class="fancy-underline border-bottom-tricolor mb-35px" style="width: 100px;"></div>
                 <p class="w-90 lg-w-100 mb-35px fw-300 fs-18 lh-30 text-dark-gray opacity-8">
-                    A proud son of Bagalkot, Ajay Kumar Sarnaik is a disciplined leader dedicated to the cooperative
-                    movement and rural development. With a legacy of service in the Ministry of Youth & Sports and
-                    the 12th Lok Sabha, he continues to empower the region through financial stewardship.
+                    Born in Bagalkot and an alumnus of Sainik School Bijapur, Shri Ajay Kumar Sarnaik brings a disciplined and visionary approach to public life. With a legacy spanning four decades, he has dedicated his career to the socio-economic advancement of Karnataka, particularly the Bagalkot region.
                 </p>
                 <div class="d-flex align-items-center">
                     <a href="#biography"
@@ -175,8 +172,7 @@ include 'parts/html-header.php'; ?>
                             style="width: 20px; height: 20px; min-width: 20px;"></div>
                         <div class="content">
                             <h6 class="fs-18 fw-700 text-dark-gray mb-1">Agriculture & Education</h6>
-                            <p class="fs-15 lh-24 mb-0">Farmer by profession. BA Graduate. Deeply connected to the
-                                soil.</p>
+                            <p class="fs-15 lh-24 mb-0">Agriculturist & Alumnus of Sainik School Bijapur. Rooted in the soil of North Karnataka.</p>
                         </div>
                     </div>
 
@@ -190,8 +186,7 @@ include 'parts/html-header.php'; ?>
                             style="width: 20px; height: 20px; min-width: 20px;"></div>
                         <div class="content">
                             <h6 class="fs-18 fw-700 text-dark-gray mb-1">Member of Parliament</h6>
-                            <p class="fs-15 lh-24 mb-0">Represented Bagalkot in the 12th Lok Sabha. Championed
-                                infrastructure and textile growth.</p>
+                            <p class="fs-15 lh-24 mb-0">Elected from Bagalkot. Represented India at the United Nations, bringing a rural perspective to global diplomacy.</p>
                         </div>
                     </div>
 
@@ -205,8 +200,7 @@ include 'parts/html-header.php'; ?>
                             style="width: 20px; height: 20px; min-width: 20px;"></div>
                         <div class="content">
                             <h6 class="fs-18 fw-700 text-dark-gray mb-1">Minister of Youth & Sports</h6>
-                            <p class="fs-15 lh-24 mb-0">Served as Minister in Govt of Karnataka. Empowered youth
-                                through sports policies.</p>
+                            <p class="fs-15 lh-24 mb-0">Transformed Karnataka's sporting landscape and organized the National Games in Bangalore.</p>
                         </div>
                     </div>
 
@@ -220,8 +214,7 @@ include 'parts/html-header.php'; ?>
                             style="width: 20px; height: 20px; min-width: 20px;"></div>
                         <div class="content">
                             <h6 class="fs-18 fw-700 text-dark-gray mb-1">Cooperative Leadership</h6>
-                            <p class="fs-15 lh-24 mb-0">President, Bagalkot DCC Bank. Strengthening the rural
-                                economy through credit.</p>
+                            <p class="fs-15 lh-24 mb-0">Revolutionizing rural credit and empowering thousands of farming families through BDCC Bank.</p>
                         </div>
                     </div>
 
@@ -243,8 +236,7 @@ include 'parts/html-header.php'; ?>
                 <h2 class="alt-font text-royal-blue fw-700 ls-minus-1px mb-0">Pillars of Progress</h2>
             </div>
             <div class="col-lg-6 text-center text-lg-end mt-3 mt-lg-0">
-                <p class="mb-0 fs-18 text-dark-gray opacity-7 w-80 ms-auto">A multifaceted approach to development,
-                    combining financial stewardship with legislative experience.</p>
+                <p class="mb-0 fs-18 text-dark-gray opacity-7">Ensuring every farmer stands empowered, every youth finds opportunity, and every citizen's voice shapes governance.</p>
             </div>
         </div>
 
@@ -262,8 +254,8 @@ include 'parts/html-header.php'; ?>
                         <h3 class="text-white alt-font fw-600 mb-10px">Unblemished Integrity</h3>
                         <div class="d-flex align-items-center mt-3">
                             <h2 class="text-muted-saffron fw-900 fs-60 mb-0 me-3">0</h2>
-                            <h5 class="text-white fw-400 mb-0 lh-30">Criminal Cases Recorded.<br><span
-                                    class="opacity-7 fs-16">Source: ADR/MyNeta</span></h5>
+                        <h5 class="text-white fw-400 mb-0 lh-30">Agricultural Prosperity<br><span
+                                    class="opacity-7 fs-16">Modernizing farming through irrigation justice and credit accessibility.</span></h5>
                         </div>
                     </div>
                     <!-- Tricolor Accent -->
@@ -281,8 +273,7 @@ include 'parts/html-header.php'; ?>
                         <i class="bi bi-bank text-royal-blue icon-large"></i>
                     </div>
                     <h4 class="alt-font text-royal-blue fw-600 fs-24 mb-10px">Financial Empowerment</h4>
-                    <p class="mb-0 text-dark-gray opacity-8">Strengthening Bagalkot through the DCC Bank and
-                        Cooperative Societies. Empowering farmers with accessible credit.</p>
+                    <p class="mb-0 text-dark-gray opacity-8">Empowering the rural economy through the BDCC Bank. Providing accessible loans and financial literacy for farmers.</p>
                 </div>
             </div>
 
@@ -294,8 +285,7 @@ include 'parts/html-header.php'; ?>
                         <i class="bi bi-building text-dark-gray icon-large opacity-5"></i>
                     </div>
                     <h4 class="alt-font text-royal-blue fw-600 fs-22 mb-10px">Parliamentary Duty</h4>
-                    <p class="mb-0 text-dark-gray opacity-8 fs-15">12th Lok Sabha: Championed Handloom Industries
-                        and Rural Road development.</p>
+                    <p class="mb-0 text-dark-gray opacity-8 fs-15">Championing irrigation rights and fair compensation for families affected by the Upper Krishna Project.</p>
                 </div>
             </div>
 
@@ -306,8 +296,7 @@ include 'parts/html-header.php'; ?>
                         <i class="bi bi-trophy text-emerald-green icon-large"></i>
                     </div>
                     <h4 class="alt-font text-royal-blue fw-600 fs-22 mb-10px">Youth & Sports</h4>
-                    <p class="mb-0 text-dark-gray opacity-8 fs-15">Former Minister dedicated to the next generation.
-                        Built sports infrastructure.</p>
+                    <p class="mb-0 text-dark-gray opacity-8 fs-15">Building infrastructure that allows Karnataka's youth to compete nationally and globally.</p>
                 </div>
             </div>
 
@@ -385,7 +374,7 @@ include 'parts/html-header.php'; ?>
                     </div>
                     <div class="p-25px last-paragraph-no-margin text-center">
                         <span class="fs-22 text-dark-gray alt-font">Public Service</span>
-                        <p class="lh-26">Voice of the People</p>
+                        <p class="lh-26">Empowering Citizens</p>
                     </div>
                 </div>
             </div>
@@ -407,7 +396,7 @@ include 'parts/html-header.php'; ?>
                     </div>
                     <div class="p-25px last-paragraph-no-margin text-center">
                         <span class="fs-22 text-dark-gray alt-font">Cooperative Banking</span>
-                        <p class="lh-26">Financial Inclusion</p>
+                        <p class="lh-26">Farmer-First Banking</p>
                     </div>
                 </div>
             </div>
@@ -429,7 +418,7 @@ include 'parts/html-header.php'; ?>
                     </div>
                     <div class="p-25px last-paragraph-no-margin text-center">
                         <span class="fs-22 text-dark-gray alt-font">Rural Economy</span>
-                        <p class="lh-26">Farmer Prosperity</p>
+                        <p class="lh-26">Irrigation Justice</p>
                     </div>
                 </div>
             </div>
@@ -451,7 +440,7 @@ include 'parts/html-header.php'; ?>
                     </div>
                     <div class="p-25px last-paragraph-no-margin text-center">
                         <span class="fs-22 text-dark-gray alt-font">Social Justice</span>
-                        <p class="lh-26">Empowering Marginalized</p>
+                        <p class="lh-26">Collective Growth</p>
                     </div>
                 </div>
             </div>
@@ -473,7 +462,7 @@ include 'parts/html-header.php'; ?>
                     </div>
                     <div class="p-25px last-paragraph-no-margin text-center">
                         <span class="fs-22 text-dark-gray alt-font">Youth & Sports</span>
-                        <p class="lh-26">Building Champions</p>
+                        <p class="lh-26">Shaping Champions</p>
                     </div>
                 </div>
             </div>
@@ -495,7 +484,7 @@ include 'parts/html-header.php'; ?>
                     </div>
                     <div class="p-25px last-paragraph-no-margin text-center">
                         <span class="fs-22 text-dark-gray alt-font">Infrastructure</span>
-                        <p class="lh-26">Connecting Communities</p>
+                        <p class="lh-26">Rural Resilience</p>
                     </div>
                 </div>
             </div>

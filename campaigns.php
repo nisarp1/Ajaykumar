@@ -93,25 +93,25 @@ include 'parts/header.php';
             <!-- Campaign 1 -->
             <div class="col">
                 <div class="glass-card p-5 h-100 text-center border-top border-4 border-color-royal-blue">
-                    <i class="bi bi-water text-royal-blue fs-50 mb-25px d-block"></i>
-                    <h5 class="fw-800 text-dark-gray mb-15px">Jal Shakti Mission</h5>
-                    <p class="fs-16 opacity-7 mb-0">Ensuring clean drinking water and irrigation facilities to the tail-end farmers of Bagalkot district.</p>
+                    <i class="bi bi-bank text-royal-blue fs-50 mb-25px d-block"></i>
+                    <h5 class="fw-800 text-dark-gray mb-15px">The Cooperative Revolution</h5>
+                    <p class="fs-16 opacity-7 mb-0">Spearheading massive credit-accessibility drives, ensuring over 1.5 lakh farming families have access to low-interest loans.</p>
                 </div>
             </div>
             <!-- Campaign 2 -->
             <div class="col">
                 <div class="glass-card p-5 h-100 text-center border-top border-4 border-color-muted-saffron">
-                    <i class="bi bi-mortarboard text-muted-saffron fs-50 mb-25px d-block"></i>
-                    <h5 class="fw-800 text-dark-gray mb-15px">Shiksha Abhiyan</h5>
-                    <p class="fs-16 opacity-7 mb-0">Modernizing rural schools with digital labs and better teacher-to-student ratios for quality education.</p>
+                    <i class="bi bi-water text-muted-saffron fs-50 mb-25px d-block"></i>
+                    <h5 class="fw-800 text-dark-gray mb-15px">Agricultural Advocacy</h5>
+                    <p class="fs-16 opacity-7 mb-0">Fighting for fair compensation (₹35L–₹40L per acre) for families affected by the Upper Krishna Project Phase 3.</p>
                 </div>
             </div>
             <!-- Campaign 3 -->
             <div class="col">
                 <div class="glass-card p-5 h-100 text-center border-top border-4 border-color-emerald-green">
-                    <i class="bi bi-heart-pulse text-emerald-green fs-50 mb-25px d-block"></i>
-                    <h5 class="fw-800 text-dark-gray mb-15px">Healthy Bagalkot</h5>
-                    <p class="fs-16 opacity-7 mb-0">Mobile health clinics and specialist camps reaching the remote areas of our constituency.</p>
+                    <i class="bi bi-trophy text-emerald-green fs-50 mb-25px d-block"></i>
+                    <h5 class="fw-800 text-dark-gray mb-15px">Youth & Sports</h5>
+                    <p class="fs-16 opacity-7 mb-0">Identifying and nurturing young rural athletes through modern synthetic tracks and indoor stadia infrastructure.</p>
                 </div>
             </div>
         </div>

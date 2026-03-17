@@ -75,10 +75,8 @@ include 'parts/header.php';
                     <img src="images/new/hero-below.jpg" class="news-img" alt="DCC Bank Growth">
                     <div class="p-4">
                         <div class="press-badge">Institutional Growth</div>
-                        <h5 class="fw-700 text-royal-blue mb-3">Bagalkot DCC Bank achieves record profits under
-                            Ajaykumar Sarnaik\'s leadership.</h5>
-                        <p class="fs-14 opacity-6">A detailed look at the financial reforms that transformed the
-                            district\'s cooperative banking sector...</p>
+                        <h5 class="fw-700 text-royal-blue mb-3">BDCC Bank achieves record turnover under Ajay Kumar Sarnaik's leadership.</h5>
+                        <p class="fs-14 opacity-6">The bank has become a lifeline for over 1.5 lakh farmers, providing essential credit and modernizing rural banking infrastructure across the district.</p>
                         <hr class="opacity-1 mt-4">
                         <div class="d-flex justify-content-between align-items-center">
                             <span class="fs-12 fw-600 opacity-5"><i class="bi bi-calendar-event me-2"></i>Mar 01,
@@ -94,10 +92,8 @@ include 'parts/header.php';
                     <img src="images/new/sugar.jpg" class="news-img" alt="Farmer Support">
                     <div class="p-4">
                         <div class="press-badge">Farmer Prosperity</div>
-                        <h5 class="fw-700 text-royal-blue mb-3">Sarnaik calls for immediate release of drought
-                            relief funds for sugarcane farmers.</h5>
-                        <p class="fs-14 opacity-6">The former minister addressed a massive gathering of farmers in
-                            Badami yesterday, demanding better FRP prices...</p>
+                        <h5 class="fw-700 text-royal-blue mb-3">Sarnaik leads delegation to demand fair irrigation rights for Bagalkot.</h5>
+                        <p class="fs-14 opacity-6">Championing the cause of families affected by the Upper Krishna Project (UKP), demanding fair compensation and swift resettlement.</p>
                         <hr class="opacity-1 mt-4">
                         <div class="d-flex justify-content-between align-items-center">
                             <span class="fs-12 fw-600 opacity-5"><i class="bi bi-calendar-event me-2"></i>Feb 24,
@@ -120,10 +116,8 @@ include 'parts/header.php';
                     </div>
                     <div class="p-4">
                         <div class="press-badge">Press Release</div>
-                        <h5 class="fw-700 text-royal-blue mb-3">Detailed roadmap for the 2026-2030 Infrastructure
-                            Plan released.</h5>
-                        <p class="fs-14 opacity-6">Focusing on bridge-cum-barrages and 4-lane connectivity for
-                            internal constituency roads...</p>
+                        <h5 class="fw-700 text-royal-blue mb-3">Modernizing Karnataka's sporting landscape for the next generation.</h5>
+                        <p class="fs-14 opacity-6">Focusing on building world-class stadium infrastructure and providing national-level platforms for young rural athletes.</p>
                         <hr class="opacity-1 mt-4">
                         <div class="d-flex justify-content-between align-items-center">
                             <span class="fs-12 fw-600 opacity-5"><i class="bi bi-calendar-event me-2"></i>Feb 18,

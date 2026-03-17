@@ -210,11 +210,10 @@ include 'parts/header.php';
                     Legacy & Vision</span>
                 <h1 class="text-white alt-font fw-700 ls-minus-2px mb-25px"
                     style="font-size: 4rem; line-height: 4.2rem;">
-                    Rooted in Trust.<br>Driven by Development.
+                    A Legacy of Service.<br>A Vision for Bagalkot.
                 </h1>
                 <p class="fs-20 text-white opacity-8 mb-35px w-80 lg-w-100 fw-300">
-                    A lifetime dedicated to the cooperative movement, governance, and the prosperity of the people
-                    of Bagalkot.
+                    Shri Ajay Kumar Sarnaik is a distinguished political leader and veteran administrator with a legacy of service spanning over four decades. Dedicated to the socio-economic advancement of Karnataka.
                 </p>
             </div>
         </div>
@@ -240,9 +239,7 @@ include 'parts/header.php';
                 <h2 class="alt-font text-royal-blue fw-600 mb-20px ls-minus-1px" style="font-size: 3.5rem; line-height: 1.1;">Building a Resilient,<br>Cooperative Society.</h2>
                 <div class="fancy-underline border-bottom-tricolor mb-35px" style="width: 100px;"></div>
                 <p class="fs-19 lh-34 text-dark-gray opacity-8 mb-45px w-90 lg-w-100">
-                    Ajaykumar Sarnaik's journey is defined by his unwavering commitment to the <strong>Cooperative
-                        Principles</strong>. He believes that true development happens when every individual has
-                    access to financial tools and administrative support.
+                    Born on May 12, 1956, in Bagalkot, Shri Sarnaik’s journey is rooted in the soil of North Karnataka. An alumnus of the prestigious Sainik School, Bijapur, he brings a disciplined and visionary approach to public life, characterized by a commitment to grassroots development and sports excellence.
                 </p>
                 <div class="row g-4">
                     <!-- Feature 1 -->
@@ -312,9 +309,7 @@ include 'parts/header.php';
             <div class="glass-card p-5 d-flex flex-column bg-alabaster border-top-tricolor h-100">
                 <i class="bi bi-eye text-muted-saffron fs-45 mb-25px"></i>
                 <h4 class="alt-font fw-800 text-dark-gray mb-20px">The Vision</h4>
-                <p class="fs-17 opacity-8 mb-0 lh-30">To build a self-reliant Bagalkot where infrastructure,
-                    education,
-                    and health thrive through collective cooperative effort.</p>
+                <p class="fs-17 opacity-8 mb-0 lh-30">Balancing rural strengths with modern infrastructure, education, and economic resilience to ensure development reaches the last household.</p>
             </div>
 
             <!-- Row 1: Mission -->
@@ -327,8 +322,7 @@ include 'parts/header.php';
                     <span class="fs-13 fw-700 text-uppercase ls-2px mb-15px d-block opacity-7">The Mission</span>
                     <h4 class="alt-font fw-800 mb-20px text-white">Empowering Rural Karnataka.</h4>
                     <p class="fs-16 lh-28 opacity-8 mb-0">
-                        Modernizing the cooperative banking sector, ensuring every farmer has the financial back-up
-                        they need to grow.
+                        To ensure that every farmer stands empowered, every youth finds opportunity, and every citizen's voice shapes governance.
                     </p>
                 </div>
             </div>
@@ -337,16 +331,14 @@ include 'parts/header.php';
             <div class="glass-card p-5 d-flex flex-column border-0 bg-white shadow-sm border-radius-15px h-100">
                 <i class="bi bi-trophy text-emerald-green fs-45 mb-25px"></i>
                 <h4 class="alt-font fw-800 text-dark-gray mb-20px">Youth Empowerment</h4>
-                <p class="fs-17 opacity-8 mb-0 lh-30">Creating world-class sports and skill-dev facilities to make
-                    the next generation self-reliant.</p>
+                <p class="fs-17 opacity-8 mb-0 lh-30">Building infrastructure and systems that allow Karnataka's youth to compete nationally and globally through world-class facilities.</p>
             </div>
 
             <!-- Row 2: Infrastructure -->
             <div class="glass-card p-5 d-flex flex-column bg-alabaster border-0 h-100">
                 <i class="bi bi-signpost-split text-royal-blue fs-45 mb-25px"></i>
                 <h4 class="alt-font fw-800 text-dark-gray mb-20px">Infrastructure</h4>
-                <p class="fs-17 opacity-8 mb-0 lh-30">Connecting remote villages with digital connectivity and
-                    all-weather roads for better accessibility.</p>
+                <p class="fs-17 opacity-8 mb-0 lh-30">Modernizing agriculture through irrigation justice, credit accessibility, and knowledge-driven farming for prosperity.</p>
             </div>
 
         </div>
@@ -375,8 +367,7 @@ include 'parts/header.php';
                                 class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">1998</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
                             <h6 class="fw-700 text-royal-blue mb-10px">Member of Parliament</h6>
-                            <p class="fs-15 opacity-7">Represented the 12th Lok Sabha from Bagalkot, advocating for
-                                textile reforms and rural highways.</p>
+                            <p class="fs-15 opacity-7">Elected from Bagalkot. Handpicked to represent India at the United Nations, bringing rural perspectives to global diplomacy.</p>
                         </div>
                     </div>
                     <!-- Item 2 -->
@@ -387,8 +378,7 @@ include 'parts/header.php';
                                 class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">2004</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
                             <h6 class="fw-700 text-royal-blue mb-10px">Cabinet Minister</h6>
-                            <p class="fs-15 opacity-7">Served as Minister for Youth & Sports, Government of
-                                Karnataka. Pioneer of the sports-for-all policy.</p>
+                            <p class="fs-15 opacity-7">Transformed the state's sporting landscape. Successfully organized the National Games and modernized stadium architecture.</p>
                         </div>
                     </div>
                     <!-- Item 3 -->
@@ -399,8 +389,7 @@ include 'parts/header.php';
                                 class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">2013</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
                             <h6 class="fw-700 text-royal-blue mb-10px">DCC Bank President</h6>
-                            <p class="fs-15 opacity-7">Elected as President of Bagalkot DCC Bank, transforming it
-                                into a farmer-first financial institution.</p>
+                            <p class="fs-15 opacity-7">Revolutionizing rural credit and providing financial literacy as a lifeline for thousands of farming families.</p>
                         </div>
                     </div>
                     <!-- Item 4 -->
@@ -411,8 +400,7 @@ include 'parts/header.php';
                                 class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">2024+</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
                             <h6 class="fw-700 text-royal-blue mb-10px">Vision 2030</h6>
-                            <p class="fs-15 opacity-7">Leading the next wave of cooperative growth and social
-                                justice for a digitally-empowered Bagalkot.</p>
+                            <p class="fs-15 opacity-7">Empowering rural economy and shaping the future as Vice President of KPCC and President of BDCC Bank.</p>
                         </div>
                     </div>
                 </div>

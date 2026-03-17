@@ -170,19 +170,19 @@ include 'parts/header.php';
                     <div class="absolute-top-right p-4 opacity-1"><i class="bi bi-bar-chart-fill fs-100 text-white"></i></div>
                     <h3 class="alt-font fw-700 text-white mb-4">Community Poll</h3>
                     <div class="poll-card p-0 shadow-none bg-transparent">
-                        <h5 class="fw-700 text-white opacity-9 mb-4">What should be the top priority for Bagalkot 2027?</h5>
+                        <h5 class="fw-700 text-white opacity-9 mb-4">What should be the top priority for Bagalkot 2030?</h5>
                         <div class="poll-option bg-white-transparent-1 border-0 text-white py-3">
-                            <span class="fw-500">Expanding Cotton Textile Mills</span>
+                            <span class="fw-500">Irrigation Justice (UKP Phase 3)</span>
                             <strong class="text-muted-saffron">42%</strong>
                             <div class="poll-progress bg-white-transparent-2" style="width: 42%;"></div>
                         </div>
                         <div class="poll-option bg-white-transparent-1 border-0 text-white py-3">
-                            <span class="fw-500">Drip Irrigation Subsidies</span>
+                            <span class="fw-500">Cooperative Banking Modernization</span>
                             <strong class="text-muted-saffron">35%</strong>
                             <div class="poll-progress bg-white-transparent-2" style="width: 35%;"></div>
                         </div>
                         <div class="poll-option bg-white-transparent-1 border-0 text-white py-3">
-                            <span class="fw-500">Smart Sports Complexes</span>
+                            <span class="fw-500">Youth & Sports Infrastructure</span>
                             <strong class="text-muted-saffron">23%</strong>
                             <div class="poll-progress bg-white-transparent-2" style="width: 23%;"></div>
                         </div>
@@ -200,16 +200,16 @@ include 'parts/header.php';
                         <span class="fs-12 fw-700 badge bg-emerald-green text-white px-2">IN PROGRESS</span>
                         <span class="fs-12 opacity-5">2 hours ago</span>
                     </div>
-                    <h5 class="fw-700 text-dark-gray mb-1">Water distribution schedule for rural Badami regions.</h5>
-                    <p class="fs-15 opacity-7 mb-0">Moderator: Admin Sarnaik Office | 45 Active participants</p>
+                    <h5 class="fw-700 text-dark-gray mb-1">UKP Land Compensation Status Update.</h5>
+                    <p class="fs-15 opacity-7 mb-0">Moderator: Sarnaik Legal Cell | 45 Active participants</p>
                 </div>
                 <div class="forum-item shadow-sm p-4 bg-alabaster border-radius-10px border-left-royal-blue border-left-5">
                     <div class="d-flex justify-content-between mb-2">
                         <span class="fs-12 fw-700 badge bg-royal-blue text-white px-2">PLANNED</span>
                         <span class="fs-12 opacity-5">5 hours ago</span>
                     </div>
-                    <h5 class="fw-700 text-dark-gray mb-1">New vocational training courses for DCC bank members' families.</h5>
-                    <p class="fs-15 opacity-7 mb-0">Join the discussion on potential course list and faculty selection.</p>
+                    <h5 class="fw-700 text-dark-gray mb-1">New digital banking training for rural farmers.</h5>
+                    <p class="fs-15 opacity-7 mb-0">Join the discussion on potential digital inclusion workshops.</p>
                 </div>
                 <div class="mt-4 text-center text-lg-start">
                     <a href="#" class="btn btn-medium btn-royal-blue btn-rounded">Visit Discussion Forum <i class="bi bi-chat-dots-fill ms-2"></i></a>

@@ -90,20 +90,18 @@ include 'parts/header.php';
                     <div class="badge-tricolor"></div>
                     <div class="p-5">
                         <h4 class="alt-font fw-800 text-royal-blue mb-4">Bagalkot DCC Bank Ltd.</h4>
-                        <p class="fs-17 opacity-8 mb-4">As the President of the District Central Cooperative Bank,
-                            Ajaykumar Sarnaik has been the architect of its modern transformation. Under his
-                            leadership, the bank has become a lifeline for Bagalkot's agricultural community.</p>
+                        <p class="fs-17 opacity-8 mb-4">Under his presidency, the BDCC Bank has revolutionized rural credit, ensuring that farming families have access to low-interest loans and financial literacy.</p>
                         <div class="row text-center mt-60px g-4">
                             <div class="col-6">
                                 <div class="stat-circle-minimal">
-                                    <h3 class="text-royal-blue">100%</h3>
-                                    <span class="fs-12 fw-700 text-uppercase ls-1px text-dark-gray opacity-6">Recovery Growth</span>
+                                    <h3 class="text-royal-blue">1.5L+</h3>
+                                    <span class="fs-12 fw-700 text-uppercase ls-1px text-dark-gray opacity-6">Farmers Supported</span>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="stat-circle-minimal">
-                                    <h3 class="text-muted-saffron">50k+</h3>
-                                    <span class="fs-12 fw-700 text-uppercase ls-1px text-dark-gray opacity-6">Farmers Supported</span>
+                                    <h3 class="text-muted-saffron">Modern</h3>
+                                    <span class="fs-12 fw-700 text-uppercase ls-1px text-dark-gray opacity-6">Banking Infrastructure</span>
                                 </div>
                             </div>
                         </div>
@@ -117,22 +115,20 @@ include 'parts/header.php';
                 <div class="association-card h-100">
                     <div class="badge-tricolor"></div>
                     <div class="p-5">
-                        <h4 class="alt-font fw-800 text-royal-blue mb-4">Sarnaik Farmers' School</h4>
-                        <p class="fs-17 opacity-8 mb-4">A visionary initiative designed to bridge the gap between
-                            traditional farming and modern agricultural tech. The school serves as a node for
-                            knowledge transfer and sustainable practice.</p>
+                        <h4 class="alt-font fw-800 text-royal-blue mb-4">UKP & Irrigation Rights</h4>
+                        <p class="fs-17 opacity-8 mb-4">A vocal advocate for the families affected by the Upper Krishna Project (UKP). Ajay Kumar Sarnaik continues to fight for fair compensation and irrigation justice.</p>
                         <ul class="list-unstyled mt-5">
                             <li class="mb-3 d-flex align-items-center fs-16 fw-600 text-dark-gray">
                                 <div class="me-3 p-1 bg-india-green border-radius-100"><i class="bi bi-check text-white fs-18"></i></div>
-                                Soil Health & Testing focus
+                                Fair Land Compensation (₹35L–₹40L/acre)
                             </li>
                             <li class="mb-3 d-flex align-items-center fs-16 fw-600 text-dark-gray">
                                 <div class="me-3 p-1 bg-india-green border-radius-100"><i class="bi bi-check text-white fs-18"></i></div>
-                                Modern Irrigation Workshops
+                                Rehabilitation & Resettlement Focus
                             </li>
                             <li class="mb-3 d-flex align-items-center fs-16 fw-600 text-dark-gray">
                                 <div class="me-3 p-1 bg-india-green border-radius-100"><i class="bi bi-check text-white fs-18"></i></div>
-                                Cooperative Marketing Support
+                                Irrigation for Arid Districts
                             </li>
                         </ul>
                     </div>
@@ -146,9 +142,8 @@ include 'parts/header.php';
                     <div class="row w-100 align-items-center">
                         <div class="col-lg-8">
                             <span class="d-inline-block fs-14 fw-600 text-muted-saffron text-uppercase ls-1px mb-10px">Industrial Cooperative</span>
-                            <h2 class="alt-font fw-700 mb-3 text-white">Sugar Cooperative Societies</h2>
-                            <p class="fs-18 opacity-8 mb-0">Championing the rights of sugarcane growers and ensuring
-                                transparent administrative practices across the district's industrial cooperatives.
+                            <h2 class="alt-font fw-700 mb-3 text-white">Sugar Cooperatives & APMC</h2>
+                            <p class="fs-18 opacity-8 mb-0">Championing the rights of sugarcane growers and fighting for better returns across the district's industrial cooperatives and APMC sectors.
                             </p>
                         </div>
                         <div class="col-lg-4 text-center mt-4 mt-lg-0">
