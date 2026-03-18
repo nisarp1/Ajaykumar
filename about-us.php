@@ -193,9 +193,9 @@ include 'parts/html-header.php';
 include 'parts/header.php';
 ?>
 
-<!-- start hero section -->
-<section class="p-0 cover-background full-screen md-h-600px sm-h-500px position-relative overflow-hidden"
-    style="background-image: url('images/new/hero.jpg'); background-position: center top;">
+<!-- start page title -->
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden"
+    style="background-image: url('images/new/about-title-bg.jpg'); background-position: center top;">
     <!-- background decor moved inside overflow-hidden section -->
     <div class="decor-blob blob-1"></div>
     <div class="decor-blob blob-2"></div>
@@ -347,7 +347,7 @@ include 'parts/header.php';
 <!-- end vision & mission section -->
 
 <!-- start journey timeline -->
-<section class="bg-alabaster pt-100px pb-100px overflow-hidden">
+<section id="biography" class="bg-alabaster pt-100px pb-100px overflow-hidden">
     <div class="container">
         <div class="row justify-content-center mb-60px">
             <div class="col-lg-8 text-center">
@@ -440,7 +440,7 @@ include 'parts/header.php';
             <div class="col">
                 <div class="glass-card h-100 p-0 overflow-hidden border-0">
                     <div class="position-relative">
-                        <img src="images/new/hero-below.jpg" class="w-100 h-250px object-fit-cover"
+                        <img src="images/new/works/2.jpg" class="w-100 h-250px object-fit-cover"
                             alt="Cooperative Banking">
                         <div class="image-caption caption-bar">
                             <span><i class="fa-solid fa-building-columns"></i> Financial Inclusion</span>
@@ -456,12 +456,8 @@ include 'parts/header.php';
             </div>
             <div class="col">
                 <div class="glass-card h-100 p-0 overflow-hidden border-0">
-                    <div
-                        class="bg-royal-blue h-250px d-flex align-items-center justify-content-center text-white text-center position-relative">
-                        <div class="px-4">
-                            <i class="bi bi-award fs-80 opacity-2 mb-20px d-block"></i>
-                            <h4 class="alt-font fw-700 mb-0">Building a<br>Faster Bagalkot</h4>
-                        </div>
+                    <div class="position-relative">
+                        <img src="images/new/works/5.jpg" class="w-100 h-250px object-fit-cover" alt="Youth Empowerment">
                         <div class="image-caption caption-bar">
                             <span><i class="fa-solid fa-bolt"></i> Youth Empowerment</span>
                             <i class="fa-solid fa-circle-info"></i>

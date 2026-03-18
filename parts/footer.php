@@ -73,3 +73,87 @@
     </div>
 </footer>
 <!-- end footer -->
+
+<!-- ========================================================
+     WHATSAPP CHATBOT (Bottom Left)
+======================================================== -->
+<div class="chat-widget wa-widget" id="waWidget">
+    <!-- Trigger Button -->
+    <button class="chat-fab wa-fab" id="waToggle" onclick="toggleChat('wa')" title="Chat on WhatsApp">
+        <i class="fa-brands fa-whatsapp"></i>
+        <span class="chat-pulse"></span>
+    </button>
+    <!-- Chat Window -->
+    <div class="chat-window wa-window" id="waWindow">
+        <div class="chat-header wa-header">
+            <div class="chat-header-avatar wa-avatar">
+                <i class="fa-brands fa-whatsapp"></i>
+            </div>
+            <div class="chat-header-info">
+                <div class="chat-header-name">Ajaykumar Helpline</div>
+                <div class="chat-header-status"><span class="online-dot"></span> Typically replies in minutes</div>
+            </div>
+            <button class="chat-close-btn" onclick="toggleChat('wa')"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <div class="chat-body" id="waBody">
+            <div class="chat-date-divider">Today</div>
+            <div class="chat-bubble incoming">
+                <p>🙏 Namaste!</p>
+                <p>Welcome to the official helpline of Shri Ajaykumar Sarnaik. How may we assist you today?</p>
+                <span class="chat-time">Just now</span>
+            </div>
+            <div class="quick-btns-wrap">
+                <button class="quick-btn wa-quick-btn" onclick="waQuickReply('Biography')">📜 Biography</button>
+                <button class="quick-btn wa-quick-btn" onclick="waQuickReply('Focus Areas')">🚀 Focus Areas</button>
+                <button class="quick-btn wa-quick-btn" onclick="waQuickReply('Constituency Office')">🏛️ Office</button>
+                <button class="quick-btn wa-quick-btn" onclick="waQuickReply('Join Movement')">🤝 Join Us</button>
+            </div>
+        </div>
+        <div class="chat-footer wa-footer">
+            <a href="https://wa.me/919999999999?text=Namaste!%20I%20would%20like%20to%20know%20more%20about%20Shri%20Ajaykumar%20Sarnaik's%20vision." target="_blank" class="wa-open-btn">
+                <i class="fa-brands fa-whatsapp me-2"></i> Open in WhatsApp
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- ========================================================
+     JANMITRA AI CHATBOT (Bottom Right)
+======================================================== -->
+<div class="chat-widget ai-widget" id="aiWidget">
+    <!-- Trigger Button -->
+    <button class="chat-fab ai-fab" id="aiToggle" onclick="toggleChat('ai')" title="Chat with Janmitra AI">
+        <i class="fa-solid fa-robot"></i>
+        <span class="chat-pulse ai-pulse"></span>
+    </button>
+    <!-- Chat Window -->
+    <div class="chat-window ai-window" id="aiWindow">
+        <div class="chat-header ai-header">
+            <div class="chat-header-avatar ai-avatar">
+                <i class="fa-solid fa-robot"></i>
+            </div>
+            <div class="chat-header-info">
+                <div class="chat-header-name">Janmitra AI <span class="beta-badge">Beta</span></div>
+                <div class="chat-header-status"><span class="online-dot"></span> Your Digital Aide</div>
+            </div>
+            <button class="chat-close-btn" onclick="toggleChat('ai')"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <div class="chat-body" id="aiBody">
+            <div class="chat-date-divider">Powered by Janmitra AI</div>
+            <div class="chat-bubble incoming ai-bubble">
+                <p>🙏 Jai Hind! I am <strong>Janmitra</strong>, your AI assistant for any information regarding Shri Ajaykumar Sarnaik.</p>
+                <p>How can I help you today?</p>
+                <span class="chat-time">Just now</span>
+            </div>
+            <div class="quick-btns-wrap">
+                <button class="quick-btn" onclick="aiQuickReply('Who is Ajaykumar Sarnaik?')">👤 Who is he?</button>
+                <button class="quick-btn" onclick="aiQuickReply('Tell me about BDCC Bank')">🏦 BDCC Bank</button>
+                <button class="quick-btn" onclick="aiQuickReply('Political journey')">⚖️ Journey</button>
+            </div>
+        </div>
+        <div class="chat-footer ai-footer">
+            <input type="text" class="ai-input" id="aiInput" placeholder="Ask Janmitra anything..." onkeydown="if(event.key==='Enter') sendAiMessage()">
+            <button class="ai-send-btn" onclick="sendAiMessage()"><i class="fa-solid fa-paper-plane"></i></button>
+        </div>
+    </div>
+</div>

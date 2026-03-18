@@ -54,7 +54,7 @@ include 'parts/header.php';
 ?>
 
 <!-- Hero -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/hero.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -126,7 +126,7 @@ include 'parts/header.php';
             </div>
             <div class="col-lg-4">
                 <div class="region-card shadow-lg">
-                    <img src="images/new/hero-below.jpg" alt="Infrastructure">
+                    <img src="images/new/infra.jpg" alt="Infrastructure">
                     <div class="region-overlay text-white">
                         <h5 class="fw-700 mb-2 text-white">Rural Infrastructure</h5>
                         <p class="fs-15 mb-0 opacity-8 text-white">Aggressive expansion of all-weather roads and
@@ -136,7 +136,7 @@ include 'parts/header.php';
             </div>
             <div class="col-lg-4">
                 <div class="region-card shadow-lg">
-                    <img src="images/new/anna-bg.jpg" alt="Heritage">
+                    <img src="images/new/tourism.jpg" alt="Heritage">
                     <div class="region-overlay text-white">
                         <h5 class="fw-700 mb-2 text-white">Tourism & Heritage</h5>
                         <p class="fs-15 mb-0 opacity-8 text-white">Developing the Badami-Aihole-Pattadakal circuit

@@ -37,7 +37,7 @@
                                 id="navbarAbout" role="button" aria-expanded="false">About</a>
                             <ul class="dropdown-menu" aria-labelledby="navbarAbout">
                                 <li><a class="dropdown-item" href="about-us.php">About the Leader</a></li>
-                                <li><a class="dropdown-item" href="index.php#biography">Biography</a></li>
+                                <li><a class="dropdown-item" href="about-us.php#biography">Biography</a></li>
                                 <li><a class="dropdown-item" href="about-us.php#about-philosophy">Values &
                                         Philosophy</a></li>
                             </ul>
@@ -57,15 +57,9 @@
                             </ul>
                         </li>
 
-                        <!-- Focus Areas Dropdown -->
-                        <li class="nav-item dropdown">
-                            <a href="associations.php" class="nav-link text-royal-blue dropdown-toggle <?php echo ($current_page == 'associations.php') ? 'fw-700' : ''; ?>" id="navbarFocus"
-                                role="button" aria-expanded="false">Focus Areas</a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarFocus">
-                                <li><a class="dropdown-item" href="associations.php">Public Service Overview</a></li>
-                                <li><a class="dropdown-item" href="associations.php">Cooperative Movement</a></li>
-                                <li><a class="dropdown-item" href="associations.php">Youth Empowerment</a></li>
-                            </ul>
+                        <!-- Focus Areas -->
+                        <li class="nav-item">
+                            <a href="associations.php" class="nav-link text-royal-blue <?php echo ($current_page == 'associations.php') ? 'fw-700' : ''; ?>">Focus Areas</a>
                         </li>
 
                         <!-- Legislative -->

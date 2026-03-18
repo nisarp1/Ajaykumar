@@ -44,6 +44,10 @@ $extra_css = '
             font-size: 24px;
             margin-bottom: 25px;
         }
+
+        .cta-spacer {
+            margin-top: 80px;
+        }
     </style>
 ';
 
@@ -52,7 +56,7 @@ include 'parts/header.php';
 ?>
 
 <!-- Hero -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/hero.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -151,12 +155,12 @@ include 'parts/header.php';
             </div>
         </div>
 
-        <div class="row mt-100px justify-content-center">
+        <div class="row justify-content-center cta-spacer" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 400, "easing": "easeOutQuad" }'>
             <div class="col-lg-8">
-                <div class="bg-alabaster p-5 border-radius-20px shadow-lg text-center">
-                    <h3 class="alt-font fw-700 text-royal-blue mb-4">Start Your Journey Now</h3>
+                <div class="bg-white p-5 border-radius-20px shadow-lg text-center border border-color-extra-medium-gray">
+                    <h3 class="alt-font fw-700 text-royal-blue mb-2">Start Your Journey Now</h3>
                     <p class="fs-18 opacity-7 mb-4">Fill out the quick signup form to get a callback from our team.</p>
-                    <a href="join-movement.php" class="btn btn-large bg-royal-blue text-white btn-rounded shadow-large d-inline-flex align-items-center justify-content-center">
+                    <a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#volunteerModal" class="btn btn-large bg-royal-blue text-white btn-rounded shadow-large d-inline-flex align-items-center justify-content-center">
                         Fill Registration Form <i class="bi bi-pencil-square ms-10px"></i>
                     </a>
                 </div>
@@ -164,6 +168,53 @@ include 'parts/header.php';
         </div>
     </div>
 </section>
+
+<!-- Volunteer Modal -->
+<div class="modal fade" id="volunteerModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content border-radius-20px overflow-hidden border-0 shadow-lg">
+            <div class="modal-header bg-royal-blue text-white border-0 p-4">
+                <h5 class="modal-title alt-font fw-700 mb-0">Volunteer Registration</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-5 bg-alabaster">
+                <form action="#" method="post">
+                    <div class="row g-4">
+                        <div class="col-md-6">
+                            <label class="form-label fw-800 text-royal-blue fs-12 text-uppercase mb-1">Full Name</label>
+                            <input type="text" name="name" class="form-control border-radius-8px p-3" placeholder="Enter your full name" required>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label fw-800 text-royal-blue fs-12 text-uppercase mb-1">Phone Number</label>
+                            <input type="tel" name="phone" class="form-control border-radius-8px p-3" placeholder="Enter mobile number" required>
+                        </div>
+                        <div class="col-md-12">
+                            <label class="form-label fw-800 text-royal-blue fs-12 text-uppercase mb-1">Preferred Role</label>
+                            <select name="role" class="form-control border-radius-8px p-3" required>
+                                <option value="">Select a role...</option>
+                                <option value="digital">Digital Warrior</option>
+                                <option value="field">Field Agent</option>
+                                <option value="research">Researcher</option>
+                                <option value="lead">Community Lead</option>
+                            </select>
+                        </div>
+                        <div class="col-12">
+                            <label class="form-label fw-800 text-royal-blue fs-12 text-uppercase mb-1">Area / Village Name</label>
+                            <input type="text" name="area" class="form-control border-radius-8px p-3" placeholder="Which area would you like to cover?" required>
+                        </div>
+                        <div class="col-12">
+                            <label class="form-label fw-800 text-royal-blue fs-12 text-uppercase mb-1">Why do you want to join?</label>
+                            <textarea name="message" class="form-control border-radius-8px p-3" rows="3" placeholder="Tell us a bit about your motivation"></textarea>
+                        </div>
+                        <div class="col-12 pt-2">
+                            <button type="submit" class="btn btn-extra-large bg-royal-blue text-white w-100 btn-rounded shadow-sm">Submit Registration <i class="bi bi-send ms-2"></i></button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
 
 <?php
 include 'parts/footer.php';

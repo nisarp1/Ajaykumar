@@ -189,7 +189,7 @@ include 'parts/header.php';
 ?>
 
 <!-- start page title -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/anna-bg.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -217,7 +217,7 @@ include 'parts/header.php';
             <div class="col-lg-6" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 800, "easing": "easeOutQuad" }'>
                 <div class="position-relative pe-40px sm-pe-0">
                     <div class="overflow-hidden border-radius-24px shadow-xl">
-                        <img src="images/new/hero-below.jpg" class="w-100 hover-scale" alt="Cooperative Leadership">
+                        <img src="images/new/works/3.jpg" class="w-100 hover-scale" alt="Cooperative Leadership">
                     </div>
                     <!-- Floating Badge -->
                     <div class="position-absolute bottom-30px right-minus-10px sm-right-10px floating-badge" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 800, "delay": 200, "easing": "easeOutQuad" }'>
@@ -289,7 +289,7 @@ include 'parts/header.php';
                         </div>
                     </div>
                     <!-- Caption Overlay -->
-                    <div class="position-absolute top-40px left-minus-30px lg-left-0 d-none d-xl-block">
+                    <div class="position-absolute bottom-0px left-minus-30px lg-left-0 d-none d-xl-block">
                         <div class="bg-royal-blue text-white p-20px px-30px border-radius-15px shadow-xl d-flex align-items-center">
                             <i class="bi bi-lightning-charge-fill fs-30 text-muted-saffron me-15px"></i>
                             <span class="fs-14 text-uppercase fw-700 ls-1px mb-0">Grassroots Connection</span>
@@ -383,7 +383,7 @@ include 'parts/header.php';
             </div>
             <div class="col">
                 <div class="glass-card p-5 h-100 border-top border-4 border-color-emerald-green">
-                    <i class="bi bi-stadium-vessel text-emerald-green fs-45 mb-25px d-block"></i>
+                    <i class="bi bi-trophy text-emerald-green fs-45 mb-25px d-block"></i>
                     <h5 class="fw-800 text-dark-gray mb-15px">Sports Architecture</h5>
                     <p class="fs-16 opacity-7">Transformed the state's sporting landscape by organizing the National Games and building international-standard stadium infrastructure.</p>
                 </div>

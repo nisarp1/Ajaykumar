@@ -19,10 +19,11 @@ $extra_css = '
         }
 
         .poll-option {
-            background: var(--alabaster);
-            padding: 15px 20px;
-            border-radius: 10px;
-            margin-bottom: 15px;
+            background: rgba(0, 0, 40, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 18px 25px;
+            border-radius: 12px;
+            margin-bottom: 20px;
             cursor: pointer;
             transition: all 0.3s ease;
             position: relative;
@@ -34,7 +35,8 @@ $extra_css = '
         }
 
         .poll-option:hover {
-            background: rgba(0, 0, 128, 0.05);
+            background: rgba(0, 0, 40, 0.5) !important;
+            border-color: rgba(255, 255, 255, 0.3);
         }
 
         .poll-progress {
@@ -42,8 +44,7 @@ $extra_css = '
             left: 0;
             top: 0;
             height: 100%;
-            background: rgba(0, 0, 128, 0.1);
-            z-index: -1;
+            z-index: 1;
             transition: width 1s ease;
         }
 
@@ -59,6 +60,32 @@ $extra_css = '
         .forum-item:hover {
             transform: translateX(10px);
         }
+
+        /* Tricolor Graph Styles */
+        .poll-progress.saffron { background: #FF9933; }
+        .poll-progress.white { background: #FFFFFF; }
+        .poll-progress.green { background: #138808; }
+
+        .poll-option span, .poll-option strong {
+            position: relative;
+            z-index: 5;
+            font-weight: 800 !important;
+            color: #fff !important;
+            text-shadow: 0 2px 5px rgba(0,0,0,0.5);
+        }
+
+        .poll-option:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2) !important;
+            background: rgba(255, 255, 255, 0.1) !important;
+        }
+
+        /* Button Hover Fix */
+        .btn-white:hover {
+            background-color: var(--muted-saffron) !important;
+            color: #fff !important;
+            border-color: var(--muted-saffron) !important;
+        }
     </style>
 ';
 
@@ -67,7 +94,7 @@ include 'parts/header.php';
 ?>
 
 <!-- Hero -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/anna-bg.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -171,22 +198,23 @@ include 'parts/header.php';
                     <h3 class="alt-font fw-700 text-white mb-4">Community Poll</h3>
                     <div class="poll-card p-0 shadow-none bg-transparent">
                         <h5 class="fw-700 text-white opacity-9 mb-4">What should be the top priority for Bagalkot 2030?</h5>
-                        <div class="poll-option bg-white-transparent-1 border-0 text-white py-3">
-                            <span class="fw-500">Irrigation Justice (UKP Phase 3)</span>
-                            <strong class="text-muted-saffron">42%</strong>
-                            <div class="poll-progress bg-white-transparent-2" style="width: 42%;"></div>
+                        <div class="poll-option border-0 py-3">
+                            <span>Irrigation Justice (UKP Phase 3)</span>
+                            <strong>42%</strong>
+                            <div class="poll-progress saffron" style="width: 42%;"></div>
                         </div>
-                        <div class="poll-option bg-white-transparent-1 border-0 text-white py-3">
-                            <span class="fw-500">Cooperative Banking Modernization</span>
-                            <strong class="text-muted-saffron">35%</strong>
-                            <div class="poll-progress bg-white-transparent-2" style="width: 35%;"></div>
+                        <div class="poll-option border-0 py-3">
+                            <span>Cooperative Banking Modernization</span>
+                            <strong>35%</strong>
+                            <div class="poll-progress white" style="width: 35%;"></div>
                         </div>
-                        <div class="poll-option bg-white-transparent-1 border-0 text-white py-3">
-                            <span class="fw-500">Youth & Sports Infrastructure</span>
-                            <strong class="text-muted-saffron">23%</strong>
-                            <div class="poll-progress bg-white-transparent-2" style="width: 23%;"></div>
+                        <div class="poll-option border-0 py-3">
+                            <span>Youth & Sports Infrastructure</span>
+                            <strong>23%</strong>
+                            <div class="poll-progress green" style="width: 23%;"></div>
                         </div>
-                        <p class="fs-13 text-white-transparent-6 mt-4 mb-0">Total Votes: 12,450 • Live results as of today</p>
+                        <p class="fs-13 text-white-transparent-6 mt-4 mb-4">Total Votes: 12,450 • Live results as of today</p>
+                        <a href="#" class="btn btn-medium btn-white btn-rounded fw-700 text-royal-blue shadow-lg text-nowrap d-inline-flex align-items-center justify-content-center">Participate in Poll <i class="bi bi-box-arrow-up-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -212,7 +240,7 @@ include 'parts/header.php';
                     <p class="fs-15 opacity-7 mb-0">Join the discussion on potential digital inclusion workshops.</p>
                 </div>
                 <div class="mt-4 text-center text-lg-start">
-                    <a href="#" class="btn btn-medium btn-royal-blue btn-rounded">Visit Discussion Forum <i class="bi bi-chat-dots-fill ms-2"></i></a>
+                    <a href="#" class="btn btn-medium btn-royal-blue btn-rounded text-nowrap d-inline-flex align-items-center justify-content-center">Visit Discussion Forum <i class="bi bi-chat-dots-fill ms-2"></i></a>
                 </div>
             </div>
         </div>

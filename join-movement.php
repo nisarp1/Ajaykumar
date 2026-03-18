@@ -50,8 +50,29 @@ $extra_css = '
             right: -50px;
             width: 200px;
             height: 200px;
-            background: rgba(255, 153, 51, 0.2);
+            background: rgba(255, 153, 51, 0.15);
             border-radius: 50%;
+            z-index: 0;
+        }
+
+        .text-tricolor-gradient {
+            background: linear-gradient(180deg, #FF9933 0%, #FFFFFF 50%, #138808 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            display: inline-block;
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+        }
+
+        .top-right-icon {
+            position: absolute;
+            top: 30px;
+            right: 30px;
+            font-size: 100px;
+            color: #FFFFFF;
+            opacity: 0.1;
+            transform: rotate(-15deg);
+            z-index: 1;
+            pointer-events: none;
         }
     </style>
 ';
@@ -61,7 +82,7 @@ include 'parts/header.php';
 ?>
 
 <!-- Page Title -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/hero.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -82,9 +103,10 @@ include 'parts/header.php';
             <div class="col-lg-6"
                 data-anime='{ "translateX": [-50, 0], "opacity": [0,1], "duration": 800, "easing": "easeOutQuad" }'>
                 <div class="cta-box">
+                    <i class="bi bi-award-fill top-right-icon"></i>
                     <h3 class="alt-font fw-700 text-white mb-4">Why Stand with Us?</h3>
                     <div class="d-flex mb-4">
-                        <div class="me-4"><i class="bi bi-people fs-40 text-muted-saffron"></i></div>
+                        <div class="me-4"><i class="bi bi-people fs-40 text-tricolor-gradient"></i></div>
                         <div>
                             <h5 class="fw-700 text-white mb-1">Grassroots Power</h5>
                             <p class="opacity-7 mb-0">Join a network of thousands of workers dedicated to rural
@@ -92,7 +114,7 @@ include 'parts/header.php';
                         </div>
                     </div>
                     <div class="d-flex mb-4">
-                        <div class="me-4"><i class="bi bi-shield-check fs-40 text-muted-saffron"></i></div>
+                        <div class="me-4"><i class="bi bi-shield-check fs-40 text-tricolor-gradient"></i></div>
                         <div>
                             <h5 class="fw-700 text-white mb-1">Clean Leadership</h5>
                             <p class="opacity-7 mb-0">Support a legacy of integrity and transparency in public
@@ -100,7 +122,7 @@ include 'parts/header.php';
                         </div>
                     </div>
                     <div class="d-flex">
-                        <div class="me-4"><i class="bi bi-megaphone fs-40 text-muted-saffron"></i></div>
+                        <div class="me-4"><i class="bi bi-megaphone fs-40 text-tricolor-gradient"></i></div>
                         <div>
                             <h5 class="fw-700 text-white mb-1">Your Voice Matters</h5>
                             <p class="opacity-7 mb-0">Direct access to policy discussions and community initiatives.

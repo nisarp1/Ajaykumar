@@ -27,10 +27,11 @@ include 'parts/html-header.php'; ?>
 
             <!-- Right Column: Content -->
             <div
-                class="col-xl-5 col-lg-6 d-flex flex-column justify-content-center p-80px ps-15px lg-p-50px md-p-40px sm-p-30px position-relative z-index-1">
+                class="col-xl-5 col-lg-6 d-flex flex-column justify-content-center p-90px lg-p-60px md-p-50px sm-p-40px position-relative z-index-1">
 
 
                 <div class="row"
+                    style="padding-left: 25px;"
                     data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
 
                     <div class="col-12 mb-30px">
@@ -41,7 +42,7 @@ include 'parts/html-header.php'; ?>
 
                     <div class="col-12">
                         <h1 class="alt-font text-royal-blue fw-700 ls-minus-2px mb-25px"
-                            style="font-size: 4rem; line-height: 4.2rem;">
+                            style="font-size: 3.5rem; line-height: 1.1;">
                             A Legacy of Service.<br>A Vision for Bagalkot.
                         </h1>
                     </div>
@@ -86,8 +87,8 @@ include 'parts/html-header.php'; ?>
                             Legacy</span>
                     </div>
                 </div>
-                <h2 class="alt-font text-dark-gray fw-600 mb-20px ls-minus-1px"
-                    style="font-size: 3.5rem; line-height: 1.1;">
+                <h2 class="alt-font text-royal-blue fw-700 mb-20px ls-minus-1px"
+                    style="font-size: 3rem; line-height: 1.1;">
                     Cooperative.<br>
                     Governance.<br>
                     Development.

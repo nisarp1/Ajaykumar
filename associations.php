@@ -58,7 +58,7 @@ include 'parts/header.php';
 ?>
 
 <!-- Hero Section -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/sugar.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -119,15 +119,15 @@ include 'parts/header.php';
                         <p class="fs-17 opacity-8 mb-4">A vocal advocate for the families affected by the Upper Krishna Project (UKP). Ajay Kumar Sarnaik continues to fight for fair compensation and irrigation justice.</p>
                         <ul class="list-unstyled mt-5">
                             <li class="mb-3 d-flex align-items-center fs-16 fw-600 text-dark-gray">
-                                <div class="me-3 p-1 bg-india-green border-radius-100"><i class="bi bi-check text-white fs-18"></i></div>
+                                <div class="me-3 bg-india-green border-radius-100 w-35px h-35px d-flex align-items-center justify-content-center flex-shrink-0"><i class="bi bi-check text-white fs-22"></i></div>
                                 Fair Land Compensation (₹35L–₹40L/acre)
                             </li>
                             <li class="mb-3 d-flex align-items-center fs-16 fw-600 text-dark-gray">
-                                <div class="me-3 p-1 bg-india-green border-radius-100"><i class="bi bi-check text-white fs-18"></i></div>
+                                <div class="me-3 bg-india-green border-radius-100 w-35px h-35px d-flex align-items-center justify-content-center flex-shrink-0"><i class="bi bi-check text-white fs-22"></i></div>
                                 Rehabilitation & Resettlement Focus
                             </li>
                             <li class="mb-3 d-flex align-items-center fs-16 fw-600 text-dark-gray">
-                                <div class="me-3 p-1 bg-india-green border-radius-100"><i class="bi bi-check text-white fs-18"></i></div>
+                                <div class="me-3 bg-india-green border-radius-100 w-35px h-35px d-flex align-items-center justify-content-center flex-shrink-0"><i class="bi bi-check text-white fs-22"></i></div>
                                 Irrigation for Arid Districts
                             </li>
                         </ul>

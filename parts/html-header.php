@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="demos/beauty-salon/beauty-salon.css" />
+    <link rel="stylesheet" href="css/chat-widgets.css" />
 
     <?php if (isset($extra_css))
     echo $extra_css; ?>
