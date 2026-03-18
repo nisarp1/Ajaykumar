@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="css/icon.min.css" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="css/custom-responsive.css" />
     <link rel="stylesheet" href="demos/beauty-salon/beauty-salon.css" />
     <link rel="stylesheet" href="css/chat-widgets.css" />
 

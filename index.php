@@ -10,10 +10,12 @@ include 'parts/html-header.php'; ?>
             <div class="col-lg-6 p-0 position-relative h-100 min-h-600px"
                 style="background-image: url('images/new/hero.jpg'); background-size: cover; background-position: top center; border-bottom-right-radius: 150px; overflow: hidden;">
                 <div class="opacity-light bg-gradient-dark-transparent d-lg-none"></div>
-                <div class="container position-absolute bottom-40px start-50 translate-middle-x z-index-9 d-none d-lg-block pointer-events-none">
+                <div
+                    class="container position-absolute bottom-40px start-50 translate-middle-x z-index-9 d-none d-lg-block pointer-events-none">
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="image-caption hero-caption position-relative left-0 bottom-0 pointer-events-all">
+                            <div
+                                class="image-caption hero-caption position-relative left-0 bottom-0 pointer-events-all">
                                 A Legacy of Service and Grassroots Progress for North Karnataka
                             </div>
                         </div>
@@ -30,8 +32,7 @@ include 'parts/html-header.php'; ?>
                 class="col-xl-5 col-lg-6 d-flex flex-column justify-content-center p-90px lg-p-60px md-p-50px sm-p-40px position-relative z-index-1">
 
 
-                <div class="row"
-                    style="padding-left: 25px;"
+                <div class="row" style="padding-left: 25px;"
                     data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
 
                     <div class="col-12 mb-30px">
@@ -49,7 +50,8 @@ include 'parts/html-header.php'; ?>
 
                     <div class="col-md-10">
                         <p class="fs-20 lh-34 text-dark-gray opacity-8 mb-35px fw-300">
-                            Distinguished Leader | Minister of Youth Services & Sports (Former) | Member of Parliament (12th Lok Sabha) | President, BDCC Bank.
+                            Distinguished Leader | Minister of Youth Services & Sports (Former) | Member of Parliament
+                            (12th Lok Sabha) | President, BDCC Bank.
                         </p>
                     </div>
 
@@ -63,7 +65,7 @@ include 'parts/html-header.php'; ?>
                             </span>
                         </a>
                         <a href="join-movement.php"
-                            class="text-royal-blue fw-700 d-inline-flex align-items-center border-bottom-tricolor text-decoration-none fs-20 pb-1 text-nowrap">
+                            class="text-royal-blue fw-700 d-none d-lg-inline-flex align-items-center border-bottom-tricolor text-decoration-none fs-20 pb-1 text-nowrap">
                             Join the Movement <i class="fa-solid fa-arrow-right ms-2"></i>
                         </a>
                     </div>
@@ -95,7 +97,10 @@ include 'parts/html-header.php'; ?>
                 </h2>
                 <div class="fancy-underline border-bottom-tricolor mb-35px" style="width: 100px;"></div>
                 <p class="w-90 lg-w-100 mb-35px fw-300 fs-18 lh-30 text-dark-gray opacity-8">
-                    Born in Bagalkot and an alumnus of Sainik School Bijapur, Shri Ajay Kumar Sarnaik brings a disciplined and visionary approach to public life. With a legacy spanning four decades, he has dedicated his career to the socio-economic advancement of Karnataka, particularly the Bagalkot region.
+                    Born in Bagalkot and an alumnus of Sainik School Bijapur, Shri Ajay Kumar Sarnaik brings a
+                    disciplined and visionary approach to public life. With a legacy spanning four decades, he has
+                    dedicated his career to the socio-economic advancement of Karnataka, particularly the Bagalkot
+                    region.
                 </p>
                 <div class="d-flex align-items-center">
                     <a href="#biography"
@@ -173,7 +178,8 @@ include 'parts/html-header.php'; ?>
                             style="width: 20px; height: 20px; min-width: 20px;"></div>
                         <div class="content">
                             <h6 class="fs-18 fw-700 text-dark-gray mb-1">Agriculture & Education</h6>
-                            <p class="fs-15 lh-24 mb-0">Agriculturist & Alumnus of Sainik School Bijapur. Rooted in the soil of North Karnataka.</p>
+                            <p class="fs-15 lh-24 mb-0">Agriculturist & Alumnus of Sainik School Bijapur. Rooted in the
+                                soil of North Karnataka.</p>
                         </div>
                     </div>
 
@@ -187,7 +193,8 @@ include 'parts/html-header.php'; ?>
                             style="width: 20px; height: 20px; min-width: 20px;"></div>
                         <div class="content">
                             <h6 class="fs-18 fw-700 text-dark-gray mb-1">Member of Parliament</h6>
-                            <p class="fs-15 lh-24 mb-0">Elected from Bagalkot. Represented India at the United Nations, bringing a rural perspective to global diplomacy.</p>
+                            <p class="fs-15 lh-24 mb-0">Elected from Bagalkot. Represented India at the United Nations,
+                                bringing a rural perspective to global diplomacy.</p>
                         </div>
                     </div>
 
@@ -201,7 +208,8 @@ include 'parts/html-header.php'; ?>
                             style="width: 20px; height: 20px; min-width: 20px;"></div>
                         <div class="content">
                             <h6 class="fs-18 fw-700 text-dark-gray mb-1">Minister of Youth & Sports</h6>
-                            <p class="fs-15 lh-24 mb-0">Transformed Karnataka's sporting landscape and organized the National Games in Bangalore.</p>
+                            <p class="fs-15 lh-24 mb-0">Transformed Karnataka's sporting landscape and organized the
+                                National Games in Bangalore.</p>
                         </div>
                     </div>
 
@@ -215,7 +223,8 @@ include 'parts/html-header.php'; ?>
                             style="width: 20px; height: 20px; min-width: 20px;"></div>
                         <div class="content">
                             <h6 class="fs-18 fw-700 text-dark-gray mb-1">Cooperative Leadership</h6>
-                            <p class="fs-15 lh-24 mb-0">Revolutionizing rural credit and empowering thousands of farming families through BDCC Bank.</p>
+                            <p class="fs-15 lh-24 mb-0">Revolutionizing rural credit and empowering thousands of farming
+                                families through BDCC Bank.</p>
                         </div>
                     </div>
 
@@ -237,7 +246,8 @@ include 'parts/html-header.php'; ?>
                 <h2 class="alt-font text-royal-blue fw-700 ls-minus-1px mb-0">Pillars of Progress</h2>
             </div>
             <div class="col-lg-6 text-center text-lg-end mt-3 mt-lg-0">
-                <p class="mb-0 fs-18 text-dark-gray opacity-7">Ensuring every farmer stands empowered, every youth finds opportunity, and every citizen's voice shapes governance.</p>
+                <p class="mb-0 fs-18 text-dark-gray opacity-7">Ensuring every farmer stands empowered, every youth finds
+                    opportunity, and every citizen's voice shapes governance.</p>
             </div>
         </div>
 
@@ -255,8 +265,9 @@ include 'parts/html-header.php'; ?>
                         <h3 class="text-white alt-font fw-600 mb-10px">Unblemished Integrity</h3>
                         <div class="d-flex align-items-center mt-3">
                             <h2 class="text-muted-saffron fw-900 fs-60 mb-0 me-3">0</h2>
-                        <h5 class="text-white fw-400 mb-0 lh-30">Agricultural Prosperity<br><span
-                                    class="opacity-7 fs-16">Modernizing farming through irrigation justice and credit accessibility.</span></h5>
+                            <h5 class="text-white fw-400 mb-0 lh-30">Agricultural Prosperity<br><span
+                                    class="opacity-7 fs-16">Modernizing farming through irrigation justice and credit
+                                    accessibility.</span></h5>
                         </div>
                     </div>
                     <!-- Tricolor Accent -->
@@ -274,7 +285,8 @@ include 'parts/html-header.php'; ?>
                         <i class="bi bi-bank text-royal-blue icon-large"></i>
                     </div>
                     <h4 class="alt-font text-royal-blue fw-600 fs-24 mb-10px">Financial Empowerment</h4>
-                    <p class="mb-0 text-dark-gray opacity-8">Empowering the rural economy through the BDCC Bank. Providing accessible loans and financial literacy for farmers.</p>
+                    <p class="mb-0 text-dark-gray opacity-8">Empowering the rural economy through the BDCC Bank.
+                        Providing accessible loans and financial literacy for farmers.</p>
                 </div>
             </div>
 
@@ -286,7 +298,8 @@ include 'parts/html-header.php'; ?>
                         <i class="bi bi-building text-dark-gray icon-large opacity-5"></i>
                     </div>
                     <h4 class="alt-font text-royal-blue fw-600 fs-22 mb-10px">Parliamentary Duty</h4>
-                    <p class="mb-0 text-dark-gray opacity-8 fs-15">Championing irrigation rights and fair compensation for families affected by the Upper Krishna Project.</p>
+                    <p class="mb-0 text-dark-gray opacity-8 fs-15">Championing irrigation rights and fair compensation
+                        for families affected by the Upper Krishna Project.</p>
                 </div>
             </div>
 
@@ -297,7 +310,8 @@ include 'parts/html-header.php'; ?>
                         <i class="bi bi-trophy text-emerald-green icon-large"></i>
                     </div>
                     <h4 class="alt-font text-royal-blue fw-600 fs-22 mb-10px">Youth & Sports</h4>
-                    <p class="mb-0 text-dark-gray opacity-8 fs-15">Building infrastructure that allows Karnataka's youth to compete nationally and globally.</p>
+                    <p class="mb-0 text-dark-gray opacity-8 fs-15">Building infrastructure that allows Karnataka's youth
+                        to compete nationally and globally.</p>
                 </div>
             </div>
 
@@ -626,19 +640,21 @@ include 'parts/html-header.php'; ?>
                 </h4>
                 <div class="d-flex justify-content-center justify-content-lg-start">
                     <!-- start slider navigation -->
-                    <div
-                        id="media-prev" class="btn-slider-custom border border-color-extra-medium-gray bg-white rounded-circle d-flex align-items-center justify-content-center me-2 swiper-button-prev" style="width: 50px; height: 50px; cursor: pointer;">
+                    <div id="media-prev"
+                        class="btn-slider-custom border border-color-extra-medium-gray bg-white rounded-circle d-flex align-items-center justify-content-center me-2 swiper-button-prev"
+                        style="width: 50px; height: 50px; cursor: pointer;">
                         <i class="bi bi-arrow-left-short fs-24 text-dark-gray"></i>
                     </div>
-                    <div
-                        id="media-next" class="btn-slider-custom border border-color-extra-medium-gray bg-white rounded-circle d-flex align-items-center justify-content-center swiper-button-next" style="width: 50px; height: 50px; cursor: pointer;">
+                    <div id="media-next"
+                        class="btn-slider-custom border border-color-extra-medium-gray bg-white rounded-circle d-flex align-items-center justify-content-center swiper-button-next"
+                        style="width: 50px; height: 50px; cursor: pointer;">
                         <i class="bi bi-arrow-right-short fs-24 text-dark-gray"></i>
                     </div>
                     <!-- end slider navigation -->
                 </div>
             </div>
             <div class="col-xl-9 col-lg-8 review-style-10 position-relative ps-4 lg-ps-15px">
-                    <div class="outside-box-right-25 sm-outside-box-right-0">
+                <div class="outside-box-right-25 sm-outside-box-right-0">
                     <div class="swiper magic-cursor drag-cursor h-100"
                         data-slider-options='{ "slidesPerView": 1, "spaceBetween": 30, "loop": true, "autoplay": { "delay": 4500, "disableOnInteraction": false }, "navigation": { "nextEl": "#media-next", "prevEl": "#media-prev" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 3 }, "992": { "slidesPerView": 2 }, "768": { "slidesPerView": 1 } }, "effect": "slide" }'>
                         <div class="swiper-wrapper">
@@ -766,18 +782,18 @@ include 'parts/html-header.php'; ?>
 <?php include 'parts/html-footer.php'; ?>
 
 <script>
-// Manual initialization to ensure Swiper works correctly
-$(document).ready(function() {
-    setTimeout(function() {
-        var swiperEl = document.querySelector('[data-slider-options]');
-        if (swiperEl && typeof Swiper === 'function') {
-            // Check if already initialized
-            if (!swiperEl.swiper) {
-                var options = JSON.parse(swiperEl.getAttribute('data-slider-options'));
-                new Swiper(swiperEl, options);
-                console.log('Slider manually initialized');
+    // Manual initialization to ensure Swiper works correctly
+    $(document).ready(function () {
+        setTimeout(function () {
+            var swiperEl = document.querySelector('[data-slider-options]');
+            if (swiperEl && typeof Swiper === 'function') {
+                // Check if already initialized
+                if (!swiperEl.swiper) {
+                    var options = JSON.parse(swiperEl.getAttribute('data-slider-options'));
+                    new Swiper(swiperEl, options);
+                    console.log('Slider manually initialized');
+                }
             }
-        }
-    }, 500);
-});
+        }, 500);
+    });
 </script>

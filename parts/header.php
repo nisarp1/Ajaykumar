@@ -13,7 +13,7 @@
                 </a>
             </div>
             <div class="col-auto menu-order position-static">
-                <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse"
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
                     <span class="navbar-toggler-line"></span>
                     <span class="navbar-toggler-line"></span>
