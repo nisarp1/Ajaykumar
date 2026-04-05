@@ -499,17 +499,19 @@ echo $extra_css;
 }
 
 /* ── Icon colour tokens ── */
-#biography .icon-saffron { background: rgba(255,153,51,0.12); color: #d97706; }
-#biography .icon-green   { background: rgba(19,136,8,0.12);   color: #138808; }
-#biography .icon-blue    { background: rgba(26,26,94,0.12);   color: #1a1a5e; }
-#biography .icon-gold    { background: rgba(199,145,0,0.12);  color: #b07d00; }
-#biography .icon-teal    { background: rgba(0,121,107,0.12);  color: #00796b; }
+#biography .icon-saffron { background-color: #fff3e7 !important; color: #d97706; }
+#biography .icon-green   { background-color: #e3f1e1 !important; color: #138808; }
+#biography .icon-blue    { background-color: #e4e4ec !important; color: #1a1a5e; }
+#biography .icon-gold    { background-color: #fef3c7 !important; color: #b45309; }
+#biography .icon-teal    { background-color: #e0f2f1 !important; color: #008080; }
 
 /* ── Timeline Rail ── */
 #biography .tl-list {
     position: relative;
     padding: 8px 0 0;
     margin: 0;
+    z-index: 1;
+    isolation: isolate;
 }
 #biography .tl-list::before {
     content: '';
@@ -526,7 +528,7 @@ echo $extra_css;
         rgba(26,26,94,0.15) 100%
     );
     border-radius: 2px;
-    z-index: 0;
+    z-index: -1;
 }
 
 /* ── Timeline Item ── */
@@ -550,7 +552,8 @@ echo $extra_css;
     align-items: center;
     justify-content: center;
     position: relative;
-    z-index: 1;
+    z-index: 10;
+    background-color: #fff;
     box-shadow: 0 0 0 5px #fff, 0 0 0 6px rgba(0,0,0,0.08), 0 3px 10px rgba(0,0,0,0.09);
     transition: transform 0.22s, box-shadow 0.22s;
 }
