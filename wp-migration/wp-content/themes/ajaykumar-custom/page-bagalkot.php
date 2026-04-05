@@ -125,7 +125,7 @@ echo $extra_css;
             </div>
             <div class="col-lg-4">
                 <div class="region-card shadow-lg">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/new/infra.jpg" alt="Infrastructure">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/new/new/rural.jpg" alt="Infrastructure">
                     <div class="region-overlay text-white">
                         <h5 class="fw-700 mb-2 text-white">Rural Infrastructure</h5>
                         <p class="fs-15 mb-0 opacity-8 text-white">Aggressive expansion of all-weather roads and

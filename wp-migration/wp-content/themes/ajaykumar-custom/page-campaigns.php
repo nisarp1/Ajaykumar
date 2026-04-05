@@ -111,7 +111,7 @@ echo $extra_css;
                 <div class="glass-card p-5 h-100 text-center border-top border-4 border-color-muted-saffron">
                     <i class="bi bi-water text-muted-saffron fs-50 mb-25px d-block"></i>
                     <h5 class="fw-800 text-dark-gray mb-15px">Agricultural Advocacy</h5>
-                    <p class="fs-16 opacity-7 mb-0">Fighting for fair compensation (₹35L–₹40L per acre) for families affected by the Upper Krishna Project Phase 3.</p>
+                    <p class="fs-16 opacity-7 mb-0">Fighting for fair compensation (&#8377;35L&ndash;&#8377;40L per acre) for families affected by the Upper Krishna Project Phase 3.</p>
                 </div>
             </div>
             <!-- Campaign 3 -->

@@ -189,7 +189,7 @@ echo $extra_css; // Output the CSS
 ?>
 
 <!-- start page title -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('<?php echo get_template_directory_uri(); ?>/assets/images/new/inner-pages-banner/political-journey.jpg'); background-position: center center;">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('<?php echo get_template_directory_uri(); ?>/assets/images/new/new/page-banners/political-journey.jpg'); background-position: center center;">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -217,7 +217,7 @@ echo $extra_css; // Output the CSS
             <div class="col-lg-6" data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 800, "easing": "easeOutQuad" }'>
                 <div class="position-relative pe-40px sm-pe-0">
                     <div class="overflow-hidden border-radius-24px shadow-xl">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/new/works/3.jpg" class="w-100 hover-scale" alt="Cooperative Leadership">
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/new/new/strategy.jpg" class="w-100 hover-scale" alt="Cooperative Leadership">
                     </div>
                     <!-- Floating Badge -->
                     <div class="position-absolute bottom-30px right-minus-10px sm-right-10px floating-badge" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 800, "delay": 200, "easing": "easeOutQuad" }'>
@@ -285,7 +285,7 @@ echo $extra_css; // Output the CSS
                 <div class="position-relative">
                     <div class="p-4 bg-alabaster border-radius-24px">
                         <div class="overflow-hidden border-radius-20px shadow-lg">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/new/anna-rahul.jpg" class="w-100 hover-scale" alt="Grassroots Philosophy">
+                            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/new/new/grassroot.jpg" class="w-100 hover-scale" alt="Grassroots Philosophy">
                         </div>
                     </div>
                     <!-- Caption Overlay -->
