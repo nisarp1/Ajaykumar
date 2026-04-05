@@ -23,10 +23,10 @@
     <div class="position-absolute top-0 start-0 w-100 h-3px"
         style="background: linear-gradient(90deg, #FF9933, #FFFFFF, #138808);"></div>
     <div class="container">
-        <div class="row justify-content-between">
+        <div class="row justify-content-between align-items-start">
             <!-- Col 1 -->
             <div class="col-lg-4 col-md-12 text-center text-lg-start md-mb-30px">
-                <a href="index.php" class="footer-logo d-inline-block text-decoration-none mb-3">
+                <a href="index.php" class="footer-logo d-inline-block text-decoration-none mb-3 mt-0">
                     <span class="fs-24 fw-700 text-white text-nowrap alt-font">Ajaykumar
                         Sarnaik <img src="images/new/hand.png" alt=""
                             class="ms-2 position-relative bg-white rounded-circle p-5px"
@@ -36,11 +36,11 @@
                     Dedicated to the progress and prosperity of Bagalkot and Karnataka.</p>
                 <div class="elements-social social-icon-style-09 mt-3">
                     <ul class="medium-icon light">
-                        <li><a class="facebook" href="javascript:void(0);" target="_blank"><i
+                        <li><a class="facebook" href="https://www.facebook.com/profile.php?id=61588185579449" target="_blank"><i
                                     class="fa-brands fa-facebook-f"></i><span></span></a></li>
-                        <li><a class="twitter" href="javascript:void(0);" target="_blank"><i
-                                    class="fa-brands fa-twitter"></i><span></span></a></li>
-                        <li><a class="instagram" href="javascript:void(0);" target="_blank"><i
+                        <li><a class="twitter" href="https://x.com/_ajaykumar_s" target="_blank"><i
+                                    class="fa-brands fa-x-twitter"></i><span></span></a></li>
+                        <li><a class="instagram" href="https://www.instagram.com/ajaykumar_sarnaik/" target="_blank"><i
                                     class="fa-brands fa-instagram"></i><span></span></a></li>
                     </ul>
                 </div>
@@ -62,10 +62,11 @@
 
             <!-- Col 3 -->
             <div class="col-lg-3 col-md-6 text-center text-lg-start">
-                <span class="d-block text-white fs-15 ls-1px mb-20px text-uppercase fw-600">Contact</span>
-                <p class="text-white opacity-8 mb-1">Bagalkot Constituency, Karnataka</p>
-                <a href="mailto:contact@ajaykumarsarnaik.com"
-                    class="text-white text-decoration-underline opacity-8 mb-20px d-inline-block">contact@ajaykumarsarnaik.com</a>
+                <span class="d-block text-white fs-15 ls-1px mb-20px text-uppercase fw-600 mt-0">Contact</span>
+                <p class="text-white opacity-8 mb-1">Main Market Road, Near Gandhi Circle, Bagalkot, Karnataka 587101.</p>
+                <a href="mailto:office@ajaykumarsarnaik.com"
+                    class="text-white text-decoration-underline opacity-8 mb-20px d-inline-block">office@ajaykumarsarnaik.com</a>
+                <p class="text-white opacity-8 mb-0 mt-2">Helpline: <a href="tel:+919845352310" class="text-white text-white-hover">+91 98453 52310</a></p>
                 <p class="text-white opacity-5 fs-14 mb-0 mt-3">&copy; 2026 Ajaykumar Sarnaik |
                     Indian National Congress.</p>
             </div>

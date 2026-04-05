@@ -5,14 +5,14 @@
     <!-- start navigation -->
     <nav class="navbar navbar-expand-lg bg-white box-shadow-medium border-bottom-tricolor sticky-header header-appear-down-scroll" data-header-hover="light">
         <div class="container-fluid">
-            <div class="col-auto col-xxl-3 col-lg-2 me-lg-0 me-auto">
+            <div class="col-lg-3 col-md-auto me-lg-0 me-auto">
                 <a class="navbar-brand" href="index.php">
                     <span class="fs-24 fw-700 text-dark-gray text-nowrap alt-font">Ajaykumar Sarnaik <img
                             src="images/new/hand.png" alt="" class="ms-2 position-relative"
                             style="height: 60px; max-height: 60px !important; top: -5px;"></span>
                 </a>
             </div>
-            <div class="col-auto menu-order position-static">
+            <div class="col-lg-6 col-auto menu-order position-static">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
                     <span class="navbar-toggler-line"></span>
@@ -20,8 +20,8 @@
                     <span class="navbar-toggler-line"></span>
                     <span class="navbar-toggler-line"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
+                <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                    <ul class="navbar-nav mx-auto">
                         <?php $current_page = basename($_SERVER['PHP_SELF']); ?>
 
                         <!-- Home -->
@@ -94,7 +94,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-auto col-xxl-3 col-lg-2 text-end d-none d-lg-flex">
+            <div class="col-lg-3 col-auto text-end d-none d-lg-flex justify-content-end">
                 <div class="header-icon">
                     <div class="d-inline-block me-85px lg-me-0">
                         <a href="javascript:void(0);" class="widget-text text-royal-blue fs-17 me-3 fw-600">English</a>

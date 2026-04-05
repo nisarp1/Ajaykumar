@@ -195,7 +195,7 @@ include 'parts/header.php';
 
 <!-- start page title -->
 <section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden"
-    style="background-image: url('images/new/about-title-bg.jpg'); background-position: center top;">
+    style="background-image: url('images/new/inner-pages-banner/about-us.jpg'); background-position: center top;">
     <!-- background decor moved inside overflow-hidden section -->
     <div class="decor-blob blob-1"></div>
     <div class="decor-blob blob-2"></div>
@@ -400,7 +400,7 @@ include 'parts/header.php';
                                 class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">2024+</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
                             <h6 class="fw-700 text-royal-blue mb-10px">Vision 2030</h6>
-                            <p class="fs-15 opacity-7">Empowering rural economy and shaping the future as Vice President of KPCC and President of BDCC Bank.</p>
+                            <p class="fs-15 opacity-7">Empowering Rural Economy and Shaping the Future of the Congress Party and as the President of Bagalkot DCC Bank.</p>
                         </div>
                     </div>
                 </div>
@@ -457,7 +457,7 @@ include 'parts/header.php';
             <div class="col">
                 <div class="glass-card h-100 p-0 overflow-hidden border-0">
                     <div class="position-relative">
-                        <img src="images/new/works/5.jpg" class="w-100 h-250px object-fit-cover" alt="Youth Empowerment">
+                        <img src="images/new/youth.jpg" class="w-100 h-250px object-fit-cover" alt="Youth Empowerment">
                         <div class="image-caption caption-bar">
                             <span><i class="fa-solid fa-bolt"></i> Youth Empowerment</span>
                             <i class="fa-solid fa-circle-info"></i>

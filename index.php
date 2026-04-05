@@ -56,7 +56,7 @@ include 'parts/html-header.php'; ?>
                     </div>
 
                     <div class="col-12">
-                        <a href="#focus"
+                        <a href="about-us.php"
                             class="btn btn-extra-large bg-royal-blue text-white btn-hover-animation-switch btn-box-shadow me-3 btn-rounded btn-tricolor-hover">
                             <span>
                                 <span class="btn-text">Explore the Vision</span>
@@ -449,7 +449,7 @@ include 'parts/html-header.php'; ?>
                                 class="d-flex justify-content-center align-items-center mx-auto icon-box absolute-middle-center z-index-1 w-65px h-65px rounded-circle border border-color-transparent-white border-1"><i
                                     class="bi bi-arrow-right-short text-white icon-very-medium d-flex"></i></span>
                             <div class="image-caption caption-bar py-2 fs-10">
-                                <span class="">Addressing grievances at the social justice forum</span>
+                                <span class="">Wishing the Hon Dy CM D.K. Shivakumar on the 6th Anniversary of being the KPCC President</span>
                             </div>
                         </a>
                     </div>
@@ -471,7 +471,7 @@ include 'parts/html-header.php'; ?>
                                 class="d-flex justify-content-center align-items-center mx-auto icon-box absolute-middle-center z-index-1 w-65px h-65px rounded-circle border border-color-transparent-white border-1"><i
                                     class="bi bi-arrow-right-short text-white icon-very-medium d-flex"></i></span>
                             <div class="image-caption caption-bar py-2 fs-10">
-                                <span class="">Honoring young athletes at the regional sports meet</span>
+                                <span class="">Discussing on the Upper Krishna Project with Hon Chief Minister of Karnataka</span>
                             </div>
                         </a>
                     </div>
@@ -493,7 +493,7 @@ include 'parts/html-header.php'; ?>
                                 class="d-flex justify-content-center align-items-center mx-auto icon-box absolute-middle-center z-index-1 w-65px h-65px rounded-circle border border-color-transparent-white border-1"><i
                                     class="bi bi-arrow-right-short text-white icon-very-medium d-flex"></i></span>
                             <div class="image-caption caption-bar py-2 fs-10">
-                                <span class="">Inspecting progress of rural connectivity projects</span>
+                                <span class="">Officially Inviting Hon CM Mr. Siddharamiah for Laying the foundation stone of Bagalkot Govt Medical College</span>
                             </div>
                         </a>
                     </div>
@@ -525,7 +525,7 @@ include 'parts/html-header.php'; ?>
             <div class="col-lg-6 align-self-end order-2 order-lg-1"
                 data-anime='{ "el": "childs", "translateY": [100, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <div class="outside-box-left-5 outside-box-right-5 position-relative">
-                    <img src="images/new/anna.png" alt="">
+                    <img src="images/new/public-record.jpg" alt="Vidhana Soudha">
                     <div class="image-caption statesman-caption bottom-50px">
                         Representing the Pulse and Voice of Bagalkot
                     </div>
@@ -752,7 +752,7 @@ include 'parts/html-header.php'; ?>
 <!-- start section contact -->
 <section class="p-0 h-500px sm-h-auto position-relative" id="contact">
     <iframe class="w-100 h-100 position-absolute left-0px top-0px dark-hover"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.290797368545!2d75.6966!3d16.1816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTbCsDEwJzUzLjgiTiA3N8KwNDEnNDcuOCJF!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin"
+        src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30656.03981364301!2d75.67837114999999!3d16.168693700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sMain%20Market%20Road%2C%20Near%20Gandhi%20Circle%2C%20Bagalkot%2C%20Karnataka%20587101!5e0!3m2!1sen!2sin!4v1773925423314!5m2!1sen!2sin"
         style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <div class="container h-100 position-relative sm-pt-40px sm-pb-40px pointer-events-none">
         <div class="row h-100 align-items-center justify-content-end pointer-events-none">
@@ -760,15 +760,13 @@ include 'parts/html-header.php'; ?>
                 <div class="bg-white box-shadow-large w-400px md-w-300px sm-w-100 border-radius-6px p-40px text-start">
                     <h4 class="alt-font text-royal-blue fw-700 mb-10px fs-24">Constituency
                         Office</h4>
-                    <p class="mb-20px lh-26 text-dark-gray opacity-8">Bagalkot Constituency,
-                        Karnataka.</p>
+                    <p class="mb-20px lh-26 text-dark-gray opacity-8">Main Market Road, Near Gandhi Circle,<br>Bagalkot, Karnataka 587101.</p>
                     <div class="w-100 d-block">
                         <span class="d-block mb-2"><span class="fw-700 text-dark-gray">Phone:</span> <a
-                                href="tel:1800222000" class="text-medium-gray">+91 999 999
-                                9999</a></span>
+                                href="tel:+919845352310" class="text-medium-gray">+91 98453 52310</a></span>
                         <span class="d-block"><span class="fw-700 text-dark-gray">Email:</span>
-                            <a href="mailto:contact@ajaykumarsarnaik.com"
-                                class="text-royal-blue fw-600">contact@ajaykumarsarnaik.com</a></span>
+                            <a href="mailto:office@ajaykumarsarnaik.com"
+                                class="text-royal-blue fw-600">office@ajaykumarsarnaik.com</a></span>
                     </div>
                 </div>
             </div>

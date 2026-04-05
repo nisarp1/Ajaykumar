@@ -189,7 +189,7 @@ include 'parts/header.php';
 ?>
 
 <!-- start page title -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/inner-pages-banner/political-journey.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -347,7 +347,7 @@ include 'parts/header.php';
                             <span class="fs-50 fw-900 text-dark-gray opacity-10 alt-font mb-10px lh-1 ls-minus-2px">Present</span>
                             <div class="milestone-dot mb-20px d-none d-lg-block"></div>
                             <h6 class="fw-700 text-royal-blue mb-10px">State Leadership</h6>
-                            <p class="fs-15 opacity-7">Currently serving as Vice President of KPCC, helping shape the party's vision and strategy for Karnataka.</p>
+                            <p class="fs-15 opacity-7">Currently serving as the Member of Congress Party, helping shape the party's vision and strategy for Karnataka.</p>
                         </div>
                     </div>
                 </div>

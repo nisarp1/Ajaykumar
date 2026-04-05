@@ -56,7 +56,7 @@ include 'parts/header.php';
 ?>
 
 <!-- Hero -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/inner-pages-banner/volunteer.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -121,15 +121,8 @@ include 'parts/header.php';
         </div>
         <div class="row g-4"
             data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "staggervalue": 200, "easing": "easeOutQuad" }'>
-            <div class="col-lg-3 col-md-6">
-                <div class="role-card">
-                    <div class="impact-badge"><i class="bi bi-laptop"></i></div>
-                    <h5 class="fw-700 text-dark-gray">Digital Warrior</h5>
-                    <p class="fs-15 opacity-7 mb-0">Manage social media, content creation, and digital outreach for
-                        campaigns.</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
+
+            <div class="col-lg-4 col-md-6">
                 <div class="role-card">
                     <div class="impact-badge"><i class="bi bi-person-walking"></i></div>
                     <h5 class="fw-700 text-dark-gray">Field Agent</h5>
@@ -137,7 +130,7 @@ include 'parts/header.php';
                         support.</p>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="role-card">
                     <div class="impact-badge"><i class="bi bi-journal-text"></i></div>
                     <h5 class="fw-700 text-dark-gray">Researcher</h5>
@@ -145,7 +138,7 @@ include 'parts/header.php';
                     </p>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="role-card">
                     <div class="impact-badge"><i class="bi bi-people"></i></div>
                     <h5 class="fw-700 text-dark-gray">Community Lead</h5>
@@ -192,7 +185,7 @@ include 'parts/header.php';
                             <label class="form-label fw-800 text-royal-blue fs-12 text-uppercase mb-1">Preferred Role</label>
                             <select name="role" class="form-control border-radius-8px p-3" required>
                                 <option value="">Select a role...</option>
-                                <option value="digital">Digital Warrior</option>
+
                                 <option value="field">Field Agent</option>
                                 <option value="research">Researcher</option>
                                 <option value="lead">Community Lead</option>

@@ -1,0 +1,164 @@
+/* 
+    Custom Responsive Fixes for Ajaykumar Sarnaik Website
+    Extreme Priority Z-Index & Global Nav Consistency
+*/
+
+@media (max-width: 991px) {
+    body { padding-bottom: 110px !important; }
+    body.mobile-menu-open { overflow: hidden !important; }
+
+    /* -------------------------------------------------------
+       FORCE HIDE THEME TOGGLERS (Prevent Weird Top Icon)
+    ------------------------------------------------------- */
+    .navbar-toggler, .navbar-toggler-clone, .navbar-modern-inner .navbar-toggler-clone {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+    }
+
+    /* -------------------------------------------------------
+       EXTREME PRIORITY BOTTOM BAR
+    ------------------------------------------------------- */
+    .mobile-bottom-bar {
+        position: fixed !important;
+        bottom: 25px !important;
+        left: 20px !important;
+        right: 20px !important;
+        height: 60px !important;
+        background: #fff !important;
+        z-index: 99999 !important; /* Highest possible priority */
+        box-shadow: 0 10px 30px rgba(0,0,0,0.15) !important;
+        border-radius: 35px !important;
+        pointer-events: auto !important;
+    }
+
+    .nav-link-bottom {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        height: 100% !important;
+        transition: transform 0.15s ease !important;
+    }
+    /* Visual click feedback */
+    .nav-link-bottom:active { transform: scale(0.85); }
+
+    .nav-icon { font-size: 24px !important; color: #111 !important; }
+
+    .nav-icon-center {
+        width: 55px; height: 55px;
+        background: #25D366 !important;
+        color: #fff !important;
+        border-radius: 50% !important;
+        display: flex; align-items: center; justify-content: center;
+        margin-top: -38px;
+        border: 4px solid #fff !important;
+        box-shadow: 0 10px 20px rgba(37, 211, 102, 0.4) !important;
+    }
+
+    /* -------------------------------------------------------
+       UNIVERSAL MENU CARD (Applies to all possible IDs)
+    ------------------------------------------------------- */
+    #navbarNav, #navbarNav-clone, .navbar-collapse-clone, .navbar-collapse {
+        margin: 0 !important;
+    }
+
+    #navbarNav.show, #navbarNav-clone.show, .navbar-collapse-clone.show, .navbar-collapse.show {
+        position: fixed !important;
+        bottom: 110px !important;
+        left: 20px !important;
+        right: 20px !important;
+        top: auto !important;
+        width: calc(100% - 40px) !important;
+        background: #fff !important;
+        border-radius: 25px !important;
+        z-index: 99998 !important; /* Just below bottom bar */
+        display: block !important;
+        box-shadow: 0 -20px 40px rgba(0,0,0,0.1) !important;
+        animation: cardUp 0.3s ease-out forwards;
+    }
+
+    @keyframes cardUp {
+        0% { transform: translateY(40px); opacity: 0; }
+        100% { transform: translateY(0); opacity: 1; }
+    }
+
+    /* Force Vertical List inside the card */
+    .show .navbar-nav { display: flex !important; flex-direction: column !important; padding: 15px !important; }
+    .show .nav-item { 
+        border-bottom: 1px solid #f2f2f2 !important; 
+        width: 100% !important; 
+        display: flex !important; 
+        flex-direction: column !important;
+        align-items: flex-start !important;
+    }
+    .show .nav-link { 
+        color: #000080 !important; 
+        padding: 12px 0 !important; 
+        font-weight: 700 !important; 
+        display: block !important; 
+        width: 100% !important;
+    }
+    .show .dropdown-toggle::after { display: none !important; }
+    .show .dropdown-menu { 
+        display: block !important; 
+        position: static !important; 
+        float: none !important; 
+        background: transparent !important; 
+        border: none !important; 
+        box-shadow: none !important; 
+        padding-left: 20px !important; 
+        margin-top: 35px !important; 
+        padding-top: 0 !important;
+        padding-bottom: 10px !important;
+    }
+    .show .dropdown-item { 
+        padding: 8px 0 !important; 
+        font-size: 16px !important; 
+        color: #555 !important;
+        display: block !important;
+    }
+
+    /* Hide Original Duplicate Floats */
+    .chat-fab, .wa-fab, .ai-fab, .chat-pulse { display: none !important; }
+    .chat-window { bottom: 100px !important; z-index: 99999 !important; }
+
+    /* -------------------------------------------------------
+       INNER PAGE BANNER: TRICOLOR GRADIENT FOR MOBILE
+    ------------------------------------------------------- */
+    section.cover-background {
+        background-image: linear-gradient(165deg, #FF9933 0%, #FFFFFF 50%, #138808 100%) !important;
+        background-size: cover !important;
+        background-position: center !important;
+        height: auto !important;
+        min-height: 400px !important;
+        padding-top: 140px !important;
+        padding-bottom: 70px !important;
+        display: flex !important;
+        align-items: center !important;
+    }
+
+    /* Hide overlays and blobs that distract from the tricolor banner */
+    section.cover-background .hero-horizontal-gradient,
+    section.cover-background .bg-gradient-dark-transparent,
+    section.cover-background .opacity-light,
+    section.cover-background .opacity-extra-medium,
+    section.cover-background .decor-blob {
+        display: none !important;
+    }
+
+    /* Text contrast adjustment for tricolor background */
+    section.cover-background h1, 
+    section.cover-background p, 
+    section.cover-background span:not(.border-bottom-tricolor) {
+        color: #000080 !important; /* Royal blue for accessibility and branding */
+        text-shadow: none !important;
+    }
+
+    section.cover-background p {
+        background: rgba(255, 255, 255, 0.4);
+        padding: 5px 10px;
+        border-radius: 4px;
+        backdrop-filter: blur(5px);
+    }
+}

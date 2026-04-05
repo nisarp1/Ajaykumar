@@ -94,7 +94,7 @@ include 'parts/header.php';
 ?>
 
 <!-- Hero -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/inner-pages-banner/voice-of-the-people.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -187,10 +187,9 @@ include 'parts/header.php';
 </section>
 
 <!-- Polls & Forums -->
-<section class="pt-100px pb-100px bg-white overflow-hidden">
+<!-- <section class="pt-100px pb-100px bg-white overflow-hidden">
     <div class="container">
         <div class="row align-items-center g-5">
-            <!-- Active Poll -->
             <div class="col-lg-6"
                 data-anime='{ "translateX": [-50, 0], "opacity": [0,1], "duration": 800, "easing": "easeOutQuad" }'>
                 <div class="bg-royal-blue p-5 border-radius-20px shadow-xl position-relative">
@@ -218,7 +217,6 @@ include 'parts/header.php';
                     </div>
                 </div>
             </div>
-            <!-- Forum Mockup -->
             <div class="col-lg-6"
                 data-anime='{ "translateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "easing": "easeOutQuad" }'>
                 <span class="d-inline-block fs-14 fw-700 text-royal-blue text-uppercase ls-1px mb-15px">Dialogue Platform</span>
@@ -245,7 +243,7 @@ include 'parts/header.php';
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <?php
 include 'parts/footer.php';

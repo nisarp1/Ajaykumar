@@ -40,7 +40,7 @@ include 'parts/header.php';
 ?>
 
 <!-- Page Title -->
-<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/about-title-bg.jpg');">
+<section class="p-0 cover-background h-800px pt-80px position-relative overflow-hidden" style="background-image: url('images/new/inner-pages-banner/contact.jpg');">
     <div class="hero-horizontal-gradient"></div>
     <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
     <div class="container h-100">
@@ -69,7 +69,7 @@ include 'parts/header.php';
                     </div>
                     <div class="d-flex mb-3">
                         <i class="bi bi-telephone-fill text-royal-blue me-3 fs-20"></i>
-                        <p class="mb-0 fs-18">+91 08354 220000</p>
+                        <p class="mb-0 fs-18">+91 98453 52310</p>
                     </div>
                     <div class="d-flex">
                         <i class="bi bi-envelope-fill text-emerald-green me-3 fs-20"></i>
@@ -85,9 +85,9 @@ include 'parts/header.php';
                     <p class="fs-17 opacity-7 mb-4">For press enquiries, official interviews, or documentation requests, please contact our dedicated PR division via email or phone.</p>
                     <div class="d-flex align-items-center mb-3">
                         <i class="bi bi-envelope-paper-fill text-muted-saffron me-3 fs-20"></i>
-                        <a href="mailto:pr@ajaykumarsarnaik.com" class="text-dark-gray fw-600 fs-17">pr@ajaykumarsarnaik.com</a>
+                        <a href="mailto:office@ajaykumarsarnaik.com" class="text-dark-gray fw-600 fs-17">office@ajaykumarsarnaik.com</a>
                     </div>
-                    <a href="mailto:pr@ajaykumarsarnaik.com" class="btn btn-medium btn-transparent-dark-gray mt-2">Email PR Team</a>
+                    <a href="mailto:office@ajaykumarsarnaik.com" class="btn btn-medium btn-transparent-dark-gray mt-2">Email PR Team</a>
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@ include 'parts/header.php';
     <div class="container">
         <div class="map-container" data-anime='{ "opacity": [0,1], "duration": 1000, "easing": "easeOutQuad" }'>
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122820.738018445!2d75.6441716!3d16.1852684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb9e3e3e3e3e3e3%3A0x7b0b0b0b0b0b0b0b!2sBagalkot%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1709460000000!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30656.03981364301!2d75.67837114999999!3d16.168693700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sMain%20Market%20Road%2C%20Near%20Gandhi%20Circle%2C%20Bagalkot%2C%20Karnataka%20587101!5e0!3m2!1sen!2sin!4v1773925423314!5m2!1sen!2sin"
                 width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
     </div>
